@@ -1,0 +1,29 @@
+Previewfiles:
+
+----
+
+Title: Trasportation
+
+----
+
+Text:
+
+----
+
+Contentblocks:
+
+-
+  text: |
+    The immediately surrounding area is called Exarcheia and the closest **Metro station is Omonia**, which is less than 10 minute walk (~600m) to NTUA.
+
+    **FROM THE AIRPORT**
+
+    **By metro: **
+    Taking the Metro from the airport is the easiest way to get into Athens. It runs from 6.30 to 23.30 every 30 minutes and takes about 45min. You take **Line 3 (Blue) to Syntagma Square**, then change to **Line 2 (Red, direction Agios Antonios)** for a couple of stops to Omonia Square. The ticket costs 10 euros.
+
+    **By bus:**
+    Take bus X95 (just outside arrivals) to Syntagma (terminal). Buses run every 10 minutes during day and every 20 minutes the whole night. The ticket costs 6 euros.
+
+    **By taxi:**
+    Taxi from the airport to  the centre will cost you 35 euros during daytime and 50 euros after midnight (fix price).
+  _key: text

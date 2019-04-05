@@ -1,0 +1,32 @@
+Previewfiles: 
+
+----
+
+Title: Geographies of Gender and Sexuality 3: Gendered and Queer Citizenship
+
+----
+
+Coordinators: 
+
+----
+
+Presentations: 
+
+- 
+  title: 'Contentious spaces: Resistance assemblages against moral police surveillance in Iran'
+  speaker: Azadeh Akbari
+- 
+  title: >
+    Polish woman strikes a struggle for
+    (re)definition of citizenship
+  speaker: Radosław Nawojski
+- 
+  title: 'Building gendered futures: Rawabi and urban Palestinian-ness'
+  speaker: Sabrina Stallone
+- 
+  title: 'Defining queer urban trauma: A lesson from social movements in Tel Aviv and Jerusalem'
+  speaker: Chen Misgav
+
+----
+
+Contentblocks: 

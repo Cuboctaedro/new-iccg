@@ -1,0 +1,35 @@
+Previewfiles:
+
+----
+
+Title: Registration is open
+
+----
+
+Date: 2018-12-31
+
+----
+
+Contentblocks:
+
+-
+  text: |
+    Registration is open until the 24th February 2019.
+
+    To register please fill in the Registration Form:
+
+    (link: https://docs.google.com/forms/d/e/1FAIpQLScNyeKHi2Hwgs6Z_0UQ-TLAqrRpm80nuH-DcyxLo-2ARznY6Q/viewform?usp=sf_link text: Registration Form target: _blank class: buttonlink )
+
+
+    For those interested in **applying for a grant**, please note that the grant applications open on 1 January 2019 and close on 31 January 2019. To apply for a grant please go to: *https://www.iccg2019.org/registration* sections grants.
+    Grants results will be communicated by February 8 2019.
+
+    If you require a **Visa invitation letter**, please remember to indicate this on the registration form and fill in the form with required information *https://www.iccg2019.org/registration* section visa.
+
+    We will be posting helpful information, resources and links on travel and conference logistics on the conference website in the coming weeks. Please stay tuned!
+
+    **Timeline**
+    **Registration**: 1 January - 24 February. Cancellation (full refund) by 31 March.
+    **Grant application**: 1 January - 31 January. Notification by 8 February
+    **Fieldtrip application**: 1 March - 31 March
+  _key: text

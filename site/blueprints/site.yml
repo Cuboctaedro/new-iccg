@@ -15,16 +15,35 @@ tabs:
                     status: all
                     templates: home
                     max: 1
+                blog:
+                    headline: Blog
+                    type: pages
+                    status: all
+                    templates: blog
+                    max: 1
+                program:
+                    headline: Programme
+                    type: pages
+                    status: all
+                    templates: program
+                    max: 1
+                themes:
+                    headline: Themes
+                    type: pages
+                    status: all
+                    templates: themes
+                    max: 1
+                fieldtrips:
+                    headline: Fieldtrips
+                    type: pages
+                    status: all
+                    templates: fieldtrips
+                    max: 1
                 pages:
                     headline: Pages
                     type: pages
                     status: all
                     templates: default
-                legal:
-                    headline: Legal Pages
-                    type: pages
-                    status: all
-                    templates: legal
           - width: 1/3
             sections:
                 pagefiles:
@@ -32,6 +51,14 @@ tabs:
                 siteseo:
                     type: fields
                     fields:
+                        logo:
+                            type: files
+                            label: Logo
+                            multiple: false
+                            layout: cards
+                        congressdates:
+                            type: text
+                            label: Congress Dates
                         sitetwitter:
                             type: text
                             label: Site Twitter Username

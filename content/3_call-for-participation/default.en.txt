@@ -1,0 +1,44 @@
+Previewfiles:
+
+----
+
+Title: Call for participation
+
+----
+
+Text:
+
+----
+
+Contentblocks:
+
+-
+  text: |
+    The 8th ICCG in Athens seeks to elaborate on the structural relations, materialities and cultures of uneven development and everywhere war, which bring about the condition of permanent crisis we find ourselves in the world over. Building on the previous ICCG 2015 conference, we regard “permanent crisis” as a regime that needs to be radically challenged in both political and theoretical terms, in our everyday lives as well as in the host of global, national and local institutions that reproduce it. We therefore want to invoke again the notion of praxis as the realisation of collective thinking and acting that is required in order to remake, to change the world.
+
+    Since 2010, Greece has been in the maelstrom of a multi-faceted and far-reaching socio-economic and political crisis linked to EU/Eurozone reforms and to processes of global capitalist restructuring. In spite of talk about entering a post-crisis era, many aspects of the crisis and austerity regime are still unfolding and certainly the societal effects are entrenched and widespread. At the same time, Greece is geo-politically located in an area experiencing major power-shifts and population upheavals connected to the wars and global antagonisms in Syria and the Middle East. It has become one more, non-local, site of operations implicated in the perpetuation, but also resistance, of war violence.
+
+    Greece has also witnessed intense and extensive social mobilisations and resistances, and attendant political changes. Massive demonstrations and strikes were followed by the emergence of novel solidarity initiatives addressing social reproduction issues. More recently, refugee solidarity and humanitarian interventions introduced a distinct inter- and transnational dimension to local mobilisations. But, right-wing populism and far right parties are also, as elsewhere in Europe, on the rise. Mobilisations have changed in terms of scale and content. Facing the question of permanent crisis the claim for radical praxis remains open.
+
+    Taking Greece as an example, as a kind of “hot-spot” for observing key socio-spatial changes, the conference invites participants to explore different aspects of permanent crisis and the possibilities for radical praxis within local sites, as well as between local and broader determinants of socio-spatial change.
+
+    ##  Conference sub-themes
+    (pagelist: themes)
+
+    ## Submit a paper and/or panel
+    We invite you to submit paper abstracts and encourage proposals for populated panels/session with alternative formats that address the proposed conference themes.
+
+
+    As indicated in the submission forms, we ask that you include (a) information on which conference theme(s) your paper or panel addresses; (b) title of your paper or panel; (c) contact information and affiliation for each author; (d) an abstract (max 300 words).
+
+    Please take into consideration that proposed activities should fit into the 90-minutes time-slots.
+
+    ## Important dates
+    **30 September 2018**: Abstracts submission Deadline
+    **15 October 2018**: **NEW** Abstracts submission Deadline
+    **27 December 2018**: Notification of acceptance Deadline
+    **01 January 2018**: Registration opens
+    **31 January 2019**: Grant application deadline
+    **24 February 2019**: Registration deadline
+    **19-23 April 2019**: Conference
+  _key: text

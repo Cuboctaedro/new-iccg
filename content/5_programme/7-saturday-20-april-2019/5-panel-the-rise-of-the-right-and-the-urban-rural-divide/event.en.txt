@@ -1,0 +1,40 @@
+Previewfiles: 
+
+----
+
+Title: Panel | The rise of the right and the urban - rural divide
+
+----
+
+Coordinators: Bernd Belina and Daniel Mullis
+
+----
+
+Presentations: 
+
+- 
+  title: 'Introduction: The revenge of the villages?'
+  speaker: Bernd Belina and Daniel Mullis
+- 
+  title: The situation in Italy
+  speaker: Camilla Perrone
+- 
+  title: The situation in Brazil
+  speaker: Jan Hutta
+- 
+  title: >
+    Xenophobia and the endorsement of
+    right-wing populism in rural and urban
+    Germany
+  speaker: >
+    Timo Baldewein, Helena Cermeno and
+    Carsten Keller
+- 
+  title: >
+    The emotional significance of
+    geographical imaginations
+  speaker: Janina Dobrusskin
+
+----
+
+Contentblocks: 

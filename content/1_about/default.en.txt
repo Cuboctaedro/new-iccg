@@ -1,0 +1,150 @@
+Title: About
+
+----
+
+Contentblocks: 
+
+- 
+  text: |
+    ICCG 2019 in Athens  is organised by a local organising committee suported by members of the ICCG steering committee.
+    
+    ## Conference size
+    Based on the local team capacity and available conference spaces the conference will be able to accommodate **maximum 250 participants**
+    
+    ## Members of the Organising Committee (local team):
+    * Evangelia Chatzikonstantinou, Urban Planning PhD
+    * George Kandylis, Researcher EKKE
+    * Penny Koutrolikou, Assistant Professor Urban Planning NTUA
+    * Eva Papatzani, PhD Candidate Urban Planning NTUA
+    * Dimitris Pettas, Post-doc researcher, Panteion University of Social and Political Sciences.
+    * Iris Polyzou, Urban Sociology PhD
+    * Paschalis Samarinis, Urban Planning PhD
+    * Dimitra Siatitsa, Urban Planning PhD
+    * George Velegrakis, Geographer PhD, Harokopio University, Athens
+    * Alexandra Zavos,  School of Social Sciences, University of Crete
+    
+    ## Members of Scientific Committee
+    * Afouxenidis Alexandros, National Centre for Social Research, Athens
+    * Artelaris Panagiotis, Harokopio University, Athens
+    * Aruri Natasha, Ur-bana, Berlin and Ramallah
+    * Athanasiou Athina, Panteion University, Athens
+    * Avdikos Vasilis, Panteion University
+    * Avramopoulou Eirini, Panteion University, Athens
+    * Balampanidis Dimitris, Harokopio University, Athens
+    * Belina Bernd, Goethe-Universität Frankfurt am Main
+    * Chanco Christopher, McGill University, Montreal
+    * Chatzikonstantinou Evaggelia, independent reseacher, Athens
+    * Debbané Anne-Marie, San Diego State University
+    * Dimitris Pettas, Panteion Universiy, Athens
+    * Guterres Antonio Brito, ISCTE - University Institute of Lisbon, Aga Khan Foundation
+    * Hadjimichael Maria, University of Cyprus, Nicosia
+    * Hansen Anders Lund, Lund University
+    * Hatziprokopiou Panos, Aristotle University of Thessaloniki
+    * Iliopoulou Irini, Panteion Universiy, Athens
+    * Kallitsis Phevos, Portsmouth School of Architecture, University of Portsmouth
+    * Kandylis Giorgos, National Centre for Social Research, Athens
+    * Kavoulakos Karolos, Aristotle University of Thessaloniki
+    * Khosla Punam, Faculty of Environmental Studies, York University
+    * Kouki Hara, Durham University
+    * Koutrolikou Penny, School of Architecture, National Technical University of Athens
+    * Lemberg-Pedersen Martin, Aalborg University
+    * Leontidou Lila, University of the Aegean
+    * Micha Eirini, School of Architecture, National Technical University of Athens
+    * Nikisianis Nikos, Aristotle University of Thessaloniki
+    * Oikonomakis Leonidas, Durham University
+    * Papatzani Eva, School of Architecture, National Technical University of Athens
+    * Parsanoglou Dimitris, Panteio University of Social and Political Sciences, Athens
+    * Petrakou Ilektra, University of the Aegean, Mytilene
+    * Petzold Tino, Goethe-Universität Frankfurt am Main
+    * Polyzou Iris, Ecole Francaise d'Athenes
+    * Ramutsindela Maano, University of Cape Town
+    * Salamanca Omar Jabary, Ghent University
+    * Samarinis Paschalis, independent researcher, Athens
+    * Siatitsa Dimitra, independent reseacher, Athens
+    * Souliotis Nikos, National Centre for Social Research, Athens
+    * Stavrides Stavros, National Technical University of Athens
+    * Tornaghi Chiara, Coventry University, London
+    * Toscano Javier, Technische Universität Chemnitz
+    * Vaiou Dina, School of Architecture, National Technical University of Athens
+    * Vatavali Fereniki, Hellenic Open University
+    * Velegrakis Giorgos, Harokopio University, Athens
+    * Vradis Antonis, Loughborough University
+    * Yannitsiotis Ioannis, University of the Aegean, Mytilene
+    * Zavos Alexandra, University of Crete, Rethymno
+    
+    ## The International Critical Geography Group (ICGG)
+    The aim of the International Critical Geography Group (ICGG) is to promote the development of critical geography internationally, in accordance with the (link: https://internationalcriticalgeography.org/statement-of-purpose/ text: Statement of Purpose): Smith, N. and Desbiens, C. (1999) “The International Critical Geography Group: Forbidden Optimism?” Environment and Planning D: Society and Space 18, 379-382.
+    
+    Membership of the ICGG is free of charge and is open to anyone who supports the Statement of Purpose. Membership is obtained by subscribing to the ICGG mailing list: www.jiscmail.ac.uk/ICGG. By subscribing to the mailing list you are confirming that you support the Statement of Purpose and you wish to be a member of the ICGG.
+    
+    ### Previous ICCG conferences:
+    (link: https://iccg2015.org/ text: Ramallah, Palestine 2015)
+    (link: http://iccg2011.twoday.net/ text: Frankfurt, Germany, 2011)
+    (link: http://www.5thiccg.org/ text: Mumbai, India, 2007)
+    Mexico City, Mexico, 2005
+    Békéscsaba, Hungary, 2002
+    Daegu, South Korea, 2000
+    Vancouver, Canada, 1997
+    
+    ### More information @ (link: https://internationalcriticalgeography.org/ text: the site of ICGG)
+  _key: text
+  _uid: text_1554474469078_548
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 
+
+----
+
+Text: 
+
+## About ICCG 2019
+
+### Members of the Organising Committee (local team):
+* Olga Balaoura, Urban Planning PhD
+* Evangelia Chatzikonstantinou, Urban Planning PhD
+* George Kandylis, Researcher EKKE
+* Emmy Karimali, PhD Candidate Urban Planning NTUA
+* Penny Koutrolikou, Assistant Professor Urban Planning NTUA
+* Olga Lafazani, Geographer PhD
+* Eva Papatzani, PhD Candidate Urban Planning NTUA
+* Dimitris Pettas, Post-doc researcher, Panteion University of Social and Political Sciences.
+* Iris Polyzou, Urban Sociology PhD
+* Paschalis Samarinis, Urban Planning PhD
+* Dimitra Siatitsa, Urban Planning PhD
+* George Velegrakis, Researcher, Department of Geography, Harokopio University, Athens
+* Alexandra Zavos, Center for Gender Studies, Department of Social Policy, Panteion University of Social and Political Sciences.
+
+### Choices about the conference size (up to 250 participants)
+
+### Proposal evaluation
+
+## The International Critical Geography Group (ICGG)
+
+The principal role of the ICGG is to organise the International Conferences of Critical Geography (ICCGs). Further information is available on the Organization page.
+
+Membership of the ICGG is free of charge and is open to anyone who supports the Statement of Purpose. Membership is obtained by subscribing to the ICGG mailing list: www.jiscmail.ac.uk/ICGG. By subscribing to the mailing list you are confirming that you support the Statement of Purpose and you wish to be a member of the ICGG.
+
+### Previous ICCG conferences:
+
+(link: https://iccg2015.org/ text: Ramallah, Palestine 2015)
+(link: http://iccg2011.twoday.net/ text: Frankfurt, Germany, 2011)
+Mumbai, India, 2007
+Mexico City, Mexico, 2005
+Békéscsaba, Hungary, 2002
+Taegu, South Korea, 2000
+Vancouver, Canada, 1997
+
+### More information @ (link: https://internationalcriticalgeography.org/ text: **the site of ICGG**)

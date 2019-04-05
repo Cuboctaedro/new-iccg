@@ -1,0 +1,16 @@
+.breadcrumbs li {
+    &::after {
+        content: "|";
+        margin-right: rem(8);
+        margin-left: rem(8);
+    }
+}
+.breadcrumbs li:last-child {
+    padding-right: 0;
+    &::after {
+        content: "";
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+}

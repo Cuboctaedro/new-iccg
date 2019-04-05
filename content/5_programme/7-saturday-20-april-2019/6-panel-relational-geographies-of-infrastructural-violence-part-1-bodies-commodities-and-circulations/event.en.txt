@@ -1,0 +1,35 @@
+Previewfiles: 
+
+----
+
+Title: Panel | Relational geographies of infrastructural violence | Part 1: Bodies, commodities and circulations
+
+----
+
+Coordinators: Omar Jabary Salamanca and Jonathan Silver
+
+----
+
+Presentations: 
+
+- 
+  title: >
+    Expectations, infrastructures and
+    exploitation in the making of the
+    Georgian New Silk Road
+  speaker: Evelina Gambino
+- 
+  title: 'Modern mobilities and Ancient thalassocracies: Re-imagining Power and Order in the Mediterranean'
+  speaker: Andonea Jon Dickson
+- 
+  title: >
+    Importation, standardization, and the
+    economic Infrastructures of occupation
+  speaker: Kareem Rabie
+- 
+  title: 'Infrastructural relations across the Black Atlantic: Making land in Recife, 1900-1950'
+  speaker: Archie Davies
+
+----
+
+Contentblocks: 

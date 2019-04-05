@@ -1,0 +1,35 @@
+Previewfiles: 
+
+----
+
+Title: Panel | Spaces of Solidarity in times of perpetual Crisis
+
+----
+
+Coordinators: Malkit Shoshan and Pelin Tan
+
+----
+
+Presentations: 
+
+- 
+  title: 'Threshold Infrastructure: Spaces of Solidarity'
+  speaker: Pelin Tan
+- 
+  title: City Plaza — A Space of Solidarity
+  speaker: Olga Lafazani
+- 
+  title: >
+    Aestheticized City Rhetoric in Post-2008
+    Athens
+  speaker: Cristina Ampatzidou
+- 
+  title: Spaces of Solidarity and Design Activism
+  speaker: Malkit Shoshan
+- 
+  title: 'Sharing is Caring: The Politics of Care for Active Citizenship'
+  speaker: Penny Travlou
+
+----
+
+Contentblocks: 

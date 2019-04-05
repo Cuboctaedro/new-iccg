@@ -1,0 +1,22 @@
+Previewfiles:
+
+----
+
+Title: Contact
+
+----
+
+Text:
+
+For any further clarification, information or suggestion, please e-mail us at:
+iccgathens2019@gmail.com
+
+----
+
+Contentblocks:
+
+-
+  text: |
+    For more information please write to the organising committee at:
+    iccgathens2019@gmail.com
+  _key: text

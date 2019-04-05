@@ -1,11 +1,12 @@
 let mix = require('laravel-mix');
 
 mix.setPublicPath("assets")
-mix.browserSync("greenrock.test")
+mix.browserSync("new-iccg.test")
 mix
     .sourceMaps()
-    // .js("src/app.js", "assets")
+    .js("src/app.js", "assets")
     .copyDirectory("src/images", "assets/images")
+    .copyDirectory("src/fonts", "assets/fonts")
     .sass("src/app.scss", "assets")
     .options({
         processCssUrls: false,

@@ -1,0 +1,30 @@
+Previewfiles: 
+
+----
+
+Title: Panel | War, money, industry, and circulations
+
+----
+
+Coordinators: Craig Jones, Rhys Machold, Derek Gregory
+
+----
+
+Presentations: 
+
+- 
+  title: 'War, Money, and Finance: The Violence of Capitalism'
+  speaker: Emily Gilbert
+- 
+  title: 'Start Up War: The Public-Private Partnership of Cyborgian Warfare'
+  speaker: Andrew Merrill
+- 
+  title: 'Interfaces of legitimation: techno-science, public relations and war'
+  speaker: Rhys Machold
+- 
+  title: 'The Colonial Spectacle of War: the gap between reproducing violence and monitoring violence in Occupied Palestine'
+  speaker: Catherine Charrett
+
+----
+
+Contentblocks: 

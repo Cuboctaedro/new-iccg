@@ -1,0 +1,36 @@
+Previewfiles: 
+
+----
+
+Title: Panel | Urban contestations of imaginations: The regulation of and coping with uncertainties in Mediterranean cities
+
+----
+
+Coordinators: Ilka Eickhof and Dimitris Soudias
+
+----
+
+Presentations: 
+
+- 
+  title: >
+    Spatializing uncertainty. Radical
+    political imaginaries and neoliberal
+    restructuration in Athens
+  speaker: Dimitris Soudias and Haris Malamidis
+- 
+  title: 'Culture and creativity under neoliberal authoritarianism: European cultural institutions and economies of labor and identity in Cairo'
+  speaker: Ilka Eickhof
+- 
+  title: >
+    Imagining justice in the city. Fighting
+    for memorial spaces in uncertain
+    post-revolutionary Tunis
+  speaker: Perrine Lachenal
+- 
+  title: 'Contesting urban realities of sectarianism: Sufism and the struggle with the self in Beirut’s middle class'
+  speaker: Maike Neufend
+
+----
+
+Contentblocks: 

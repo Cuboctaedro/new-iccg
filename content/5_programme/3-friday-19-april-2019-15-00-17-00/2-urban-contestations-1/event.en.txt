@@ -1,0 +1,52 @@
+Title: Urban contestations 1
+
+----
+
+Subject: s3
+
+----
+
+Room: 
+
+----
+
+Coordinators: 
+
+----
+
+Presentations: 
+
+- 
+  title: 'From contestation to governance: Comparative insights into the institutionalisation of social movements in Madrid and Athens'
+  speaker: Athina Arampatzi and Michael Janoschka
+- 
+  title: >
+    Commoning in concrete environments –
+    cultivating poethics of discomfort
+  speaker: Elona Hoover
+- 
+  title: 'Prefigurative urbanism and radical infrastructural repertoires: architectural collectives and urban social movements in South America'
+  speaker: Leandro Minuchin
+- 
+  title: 'Antimetrology: Notes for a revolutionary time (and space) program'
+  speaker: Diego Cervantes Ruiz
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

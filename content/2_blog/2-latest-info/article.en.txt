@@ -1,0 +1,28 @@
+Previewfiles:
+
+----
+
+Title: Registration for field trips is now open!
+
+----
+
+Date: 2019-03-29
+
+----
+
+Contentblocks:
+
+-
+  text: |
+    Dear ICCG 2019 participants, we are happy to announce that field trip registration is open.
+
+    Field Trips are planned for Sunday 21/4 and Monday 22/4 from 10:00 to 14:00.
+
+    Check the (link: https://www.iccg2019.org/field-trips text: field trip description on the site), and choose your two preferences for each day.
+
+    (link: https://docs.google.com/forms/d/e/1FAIpQLSc0-Qt37nVsbnY6K3v4gwp43HLq6Xid0B2nRFfAmesnGwJ-iQ/viewform text: Field Trip Registration Form target: _blank class: buttonlink )
+
+    Please note that field trips are planned only for registered participants. If you are interested to participate to field trips but have not registered for the conference, there will be a waiting list in case there are available places. A small fee will be charged.
+
+    **Stay tunned: the preliminary programme will be announced tomorrow!**
+  _key: text

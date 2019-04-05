@@ -1,0 +1,50 @@
+title: Field Trip Page
+
+tabs:
+    content:
+        label:
+            en: Content
+            el: Περιεχόμενο
+        icon: text
+        columns:
+          - width: 2/3
+            sections:
+                content:
+                    type: fields
+                    fields:
+                        number:
+                            label: Number
+                            type: number
+                        date:
+                            label: Date
+                            type: date
+                        participants:
+                            extends: fields/plaineditor
+                            label: Participants
+                        location:
+                            extends: fields/plaineditor
+                            label: Place of Discussion
+                        guides:
+                            extends: fields/plaineditor
+                            label: Field Trip Guides
+                        startingpoint:
+                            extends: fields/plaineditor
+                            label: Starting Point
+                        picture: fields/image
+                        map:
+                            extends: fields/image
+                            label: Map
+                        heading:
+                            label: Description Title
+                            type: text
+                        text: fields/fulleditor
+          - width: 1/3
+            sections:
+                pages:
+                    headline: Subpages
+                    type: pages
+                    status: all
+                    templates: default
+                pagefiles:
+                    extends: sections/pagefiles
+    seo: tabs/seo

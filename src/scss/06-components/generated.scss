@@ -1,14 +1,21 @@
 .generated {
-    @include typesize(16, 24);
+    @include typesize(14, 18);
+    @include mq('md') {
+        @include typesize(16, 24);
+    };
+    font-family: map-get($font-families, 'serif');
     p {
-        margin-bottom: rem(16);
+        margin-bottom: rem(18);
     }
     p:last-child {
         margin-bottom: 0;
     }
     h2 {
-        @include typesize(20, 24);
-        margin-bottom: rem(16);
+        @include heading-2;
+        margin-bottom: rem(12);
+        margin-top: rem(24);
+    }
+    strong {
         font-weight: 700;
     }
 }

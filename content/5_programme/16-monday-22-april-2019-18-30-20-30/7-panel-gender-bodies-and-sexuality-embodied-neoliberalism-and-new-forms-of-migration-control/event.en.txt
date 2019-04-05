@@ -1,0 +1,30 @@
+Previewfiles: 
+
+----
+
+Title: Panel | Gender, Bodies and Sexuality: Embodied Neoliberalism and New Forms of Migration Control
+
+----
+
+Coordinators: Calogero Giametta and Cesare Di Feliciantonio
+
+----
+
+Presentations: 
+
+- 
+  title: 'The Swedish model of sex work in France: Racialization and control of migrant sex workers'
+  speaker: Calogero Giametta
+- 
+  title: 'Researching HIV-positive gay migration through an intersectional lens: Theoretical, methodological and political implications'
+  speaker: Cesare Di Feliciantonio
+- 
+  title: 'Reforming the refugee granting process in France: Sexual/gender, Shira Havkin minorities and neoliberal reshaping of filtering mechanisms'
+  speaker: ""
+- 
+  title: 'The question of transgender mobility as metaphor: From epistemic border to institutional exile?'
+  speaker: Ludovico Virtu
+
+----
+
+Contentblocks: 

@@ -1,0 +1,27 @@
+title: Theme Page
+
+tabs:
+    content:
+        label:
+            en: Content
+            el: Περιεχόμενο
+        icon: text
+        columns:
+          - width: 2/3
+            sections:
+                content:
+                    type: fields
+                    fields:
+                        subject:
+                            extends: fields/subjects
+                        text: fields/fulleditor
+          - width: 1/3
+            sections:
+                pages:
+                    headline: Subpages
+                    type: pages
+                    status: all
+                    templates: default
+                pagefiles:
+                    extends: sections/pagefiles
+    seo: tabs/seo

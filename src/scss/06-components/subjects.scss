@@ -1,0 +1,31 @@
+.subject__header {
+    @each $subject, $color in $subjectcolors {
+        &.is-active.#{$subject} {
+            background-color: $color;
+            color: map-get($colors, 'white');
+        }
+        &.#{$subject}:hover {
+            background-color: $color;
+            color: map-get($colors, 'white');
+        }
+    }
+}
+.subject__number {
+    width: rem(24);
+    height: rem(24);
+    @include typesize(18, 24);
+    font-family: map-get($font-families, 'titles');
+    color: map-get($colors, 'white');
+    text-align: center;
+    text-transform: uppercase;
+    @each $subject, $color in $subjectcolors {
+        &.#{$subject} {
+            background-color: $color;
+        }
+        .is-active &.#{$subject},
+        *:hover > &.#{$subject} {
+            background-color: map-get($colors, 'white');
+            color: $color;
+        }
+    }
+}

@@ -1,0 +1,34 @@
+title: Timeslot Page
+
+tabs:
+    content:
+        label: Events
+        icon: text
+        columns:
+          - width: 2/3
+            sections:
+                content:
+                    type: fields
+                    fields:
+                        date:
+                            type: date
+                            label: Date
+                        start:
+                            type: time
+                            label: Start time
+                        end:
+                            type: time
+                            label: Finish time    
+          - width: 1/3
+            sections:
+                published:
+                    headline: Published Events
+                    type: pages
+                    status: published
+                    templates: event
+                draft:
+                    headline: Drafts
+                    type: pages
+                    status: draft
+                    templates: event
+    seo: tabs/seo

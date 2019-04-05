@@ -1,0 +1,33 @@
+Previewfiles: 
+
+----
+
+Title: Panel | Spatial crises: The production of cramped spaces in the Mediterranean
+
+----
+
+Coordinators: Martina Tazzioli and Glenda Garelli
+
+----
+
+Presentations: 
+
+- 
+  title: >
+    Containing, seizing, criminalising.
+    Governing migration through smugglers in
+    the Mediterranean
+  speaker: 'Martina Tazzioli & Glenda Garelli'
+- 
+  title: 'Rescuing Solidarity: responding to the necropolitics of maritime migration'
+  speaker: Heather Johnson
+- 
+  title: 'Producing cramped spaces: A dialectics of logistical and counter-logistical networks?'
+  speaker: Amedeo Policante
+- 
+  title: "The uneven geographies of 'departability': Exiting the hotspot"
+  speaker: Aila Spathopoulou
+
+----
+
+Contentblocks: 

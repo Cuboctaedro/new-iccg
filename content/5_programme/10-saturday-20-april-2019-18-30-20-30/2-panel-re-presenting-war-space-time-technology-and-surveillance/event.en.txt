@@ -1,0 +1,30 @@
+Previewfiles: 
+
+----
+
+Title: Panel | Re-presenting war: Space / Time, technology and surveillance
+
+----
+
+Coordinators: Craig Jones, Rhys Machold, Derek Gregory
+
+----
+
+Presentations: 
+
+- 
+  title: 'Between war and permanent crisis: Challenging direct and slow violence in ‘forgotten’ conflicts'
+  speaker: Alexander Vorbrugg
+- 
+  title: 'Disrupted infrastructure: The impact of war on the social and physical landscape in Syria'
+  speaker: Sofia T. Shwayri
+- 
+  title: 'Settler – Colonial Surveillant Assemblages: Acceleration, compression, enclavisation'
+  speaker: Wassim Ghantous
+- 
+  title: 'The Disappearing Act: Fear in the Context of Extreme Violence'
+  speaker: Ariana Markowitz
+
+----
+
+Contentblocks: 

@@ -1,16 +1,10 @@
-<?php
-$items = $site->pages()->listed();
-if($items->isNotEmpty()):
-?>
 
 <nav>
-    <ul>
-    <?php foreach($items as $item): ?>
+    <ul class="border-bottom-thin">
+    <?php foreach($pages->listed() as $item): ?>
         <li>
-            <a class="<?php e($item->isOpen(), ' is-active ') ?>" href="<?= $item->url() ?>"><?= $item->title() ?></a>
+            <a class="border-top-thin menu__link <?php e($item->isOpen(), ' is-active ') ?>" href="<?= $item->url() ?>"><?= $item->title() ?></a>
         </li>
     <?php endforeach ?>
     </ul>
 </nav>
-
-<?php endif ?>

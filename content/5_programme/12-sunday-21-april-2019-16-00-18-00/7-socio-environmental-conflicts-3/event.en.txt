@@ -1,0 +1,53 @@
+Title: Socio-environmental conflicts 3
+
+----
+
+Subject: s7
+
+----
+
+Room: 
+
+----
+
+Coordinators: 
+
+----
+
+Presentations: 
+
+- 
+  title: 'Towards an expanded concept of extractivism: Primitive accumulation and social movement in the case of Skouries gold mining in Greece'
+  speaker: Konstantinos Petrakos
+- 
+  title: 'Are resource conflicts different in the global North? - Reflections on contested extractivism in coal-mining “El Cerrejón” (Colombia) and “Hambacher Forst“ (Germany)'
+  speaker: Dorothea Hamilton
+- 
+  title: >
+    Anglo-Persian Oil Company (APOC) and the
+    socio-ecological transformation of
+    south-west Iran (1909-1952)
+  speaker: Sara Larijani
+- 
+  title: 'The politics of slow violence: Toxic legacies of extractive farming in northern India'
+  speaker: Divya Sharma
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

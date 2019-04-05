@@ -55,7 +55,7 @@
     @if map-get($settings-map, 'hover') == true {
         @each $name, $value in $values-map {
             @if map_has_key($settings-map, 'classname') {
-                .hover__#{ map-get($settings-map, 'classname')}-#{$name} {
+                .hover__#{ map-get($settings-map, 'classname')}-#{$name}:hover {
                     @if $userem == true {
                         #{ map-get($settings-map, 'property')} : rem($value) ;
                     } @else {
@@ -63,7 +63,7 @@
                     }
                 }
             } @else {
-                .hover__#{$name} {
+                .hover__#{$name}:hover  {
                     @if $userem == true {
                         #{ map-get($settings-map, 'property')} : rem($value) ;
                     } @else {
@@ -77,7 +77,7 @@
     @if map-get($settings-map, 'focus') == true {
         @each $name, $value in $values-map {
             @if map_has_key($settings-map, 'classname') {
-                .focus__#{ map-get($settings-map, 'classname')}-#{$name} {
+                .focus__#{ map-get($settings-map, 'classname')}-#{$name}:focus  {
                     @if $userem == true {
                         #{ map-get($settings-map, 'property')} : rem($value) ;
                     } @else {
@@ -85,7 +85,7 @@
                     }
                 }
             } @else {
-                .focus__#{$name} {
+                .focus__#{$name}:focus {
                     @if $userem == true {
                         #{ map-get($settings-map, 'property')} : rem($value) ;
                     } @else {

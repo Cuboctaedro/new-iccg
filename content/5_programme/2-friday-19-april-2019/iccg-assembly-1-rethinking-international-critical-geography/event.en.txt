@@ -1,0 +1,22 @@
+Previewfiles:
+
+----
+
+Title: ICGG/ICCG Assembly 1 | Rethinking International Critical Geography
+
+----
+
+Coordinators:
+
+----
+
+Presentations:
+
+----
+
+Contentblocks:
+
+-
+  text: >
+    The ICGG/ICCG assemblies will reflect on our two decades of existence through testimonies by persons who have been part of this journey and through collective discussions and working groups that will consider where we stand today, whether we have succeeded in creating a different kind of scholar and political space, and what directions we shall take in light of our current political moment. Through these sessions we aim to gather and develop concrete ideas to be passed onto the next teams to guide our work and the future of the ICGG/ICCG. We look forward to have you on board for this thought-provoking, interactive and collective assemblies.
+  _key: text

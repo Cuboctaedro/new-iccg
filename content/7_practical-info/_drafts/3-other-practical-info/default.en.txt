@@ -1,0 +1,17 @@
+Previewfiles:
+
+----
+
+Title: Other practical info
+
+----
+
+Text: Fake text
+
+----
+
+Contentblocks:
+
+-
+  text: Test content
+  _key: text

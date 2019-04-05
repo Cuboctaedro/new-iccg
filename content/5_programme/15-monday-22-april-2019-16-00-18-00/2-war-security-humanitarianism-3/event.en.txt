@@ -1,0 +1,52 @@
+Title: War, security, humanitarianism 3
+
+----
+
+Subject: s2
+
+----
+
+Room: 
+
+----
+
+Coordinators: 
+
+----
+
+Presentations: 
+
+- 
+  title: >
+    Palestinian homes and the systematic
+    targeting of intimacy
+  speaker: Sabrien Amrov
+- 
+  title: 'Security agents in the house: Performing the home and negotiating citizenship in Jerusalem'
+  speaker: Lior Volinz
+- 
+  title: 'A war against the people: The body as site and target of siege practice'
+  speaker: Ron Smith
+- 
+  title: The smart city of Gaza
+  speaker: Francesco Sebregondi
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

@@ -1,0 +1,29 @@
+.border-top-thick {
+    border-top: 2px solid map-get($colors, 'black');
+}
+.border-top-thin {
+    border-top: 1px solid map-get($colors, 'black');
+}
+.border-top-dot {
+    border-top: 1px dotted map-get($colors, 'black');
+}
+.border-bottom-thick {
+    border-bottom: 2px solid map-get($colors, 'black');
+}
+.border-bottom-thin {
+    border-bottom: 1px solid map-get($colors, 'black');
+}
+.border-bottom-dot {
+    border-bottom: 1px dotted map-get($colors, 'black');
+}
+
+.children-border-bottom-dot > * {
+    border-bottom: 1px dotted map-get($colors, 'black');
+}
+.children-border-bottom-dot > *:last-child {
+    border-bottom: none;
+}
+
+.border-top-white {
+    border-top: 1px solid map-get($colors, 'white');
+}

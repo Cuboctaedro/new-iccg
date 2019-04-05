@@ -1,0 +1,35 @@
+Previewfiles: 
+
+----
+
+Title: Panel | Towards a new Urban Agenda – Reflecting the “how?” and the “what?” of urban sustainability transformation (III): Right to the city and urban justice
+
+----
+
+Coordinators: Christina West and Wing Shing Tang
+
+----
+
+Presentations: 
+
+- 
+  title: >
+    The antagonism between the political
+    extreme Right and refugees for the
+    rights to the city. Dialectics between
+    transnational common spaces versus
+    nationalistic conflicts in the case of
+    Thessaloniki, Greece
+  speaker: >
+    Charalampos Tsavdaroglou and
+    Konstantinos Lalenis
+- 
+  title: 'Spaces of ambivalence: Contestation and collaboration in Singapore’s migrant worker service hubs'
+  speaker: Geerhardt Kornatowski
+- 
+  title: 'Neoliberalism, Chinese impositions, Contestations: Four Decades of Urban (Re)Development in Colombo'
+  speaker: Nihal Perera and Nirmani Liyanage
+
+----
+
+Contentblocks: 

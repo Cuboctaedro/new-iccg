@@ -1,0 +1,38 @@
+Previewfiles: 
+
+----
+
+Title: Panel | Radical praxis in the permanent housing crisis: The promise of housing commons?
+
+----
+
+Coordinators: Mara Ferreri and Henrik Gutzon Larsen
+
+----
+
+Presentations: 
+
+- 
+  title: >
+    Housing policy of the commons? The case
+    of the rental social housing in
+    Barcelona
+  speaker: >
+    Bianchi Iolanda, Salazar Yunailis, Pera
+    Ros Marina, Blanco Ismael
+- 
+  title: >
+    From housing cooperatives to housing
+    commons? Pathways and strategies in
+    Denmark and Uruguay
+  speaker: Lorenzo Vidal
+- 
+  title: 'From squats to co-ops: a comparative reflection on emergent housing communing'
+  speaker: Mara Ferreri
+- 
+  title: Common housing as housing commons
+  speaker: Henrik Gutzon Larsen
+
+----
+
+Contentblocks: 

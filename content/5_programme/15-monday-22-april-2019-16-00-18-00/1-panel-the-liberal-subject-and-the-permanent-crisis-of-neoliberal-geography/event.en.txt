@@ -1,0 +1,32 @@
+Previewfiles: 
+
+----
+
+Title: Panel | The liberal subject and the ‘permanent crisis’ of neoliberal geography
+
+----
+
+Coordinators: Lawrence Berg
+
+----
+
+Presentations: 
+
+- 
+  title: >
+    The (re)productionf of meritocracy.
+    Challenges from the Romanian Higher
+    Education under neoliberalism
+  speaker: >
+    Alexandru Gavris, The Bucharest
+    University of Economic Studies
+- 
+  title: Roundtable
+  speaker: >
+    Edward H. Huijbens, Lukas Damiel Peter,
+    Kye Askins , Marshall Feldman, Mary
+    Gilmartin
+
+----
+
+Contentblocks: 

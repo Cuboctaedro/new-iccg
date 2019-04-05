@@ -1,0 +1,19 @@
+Previewfiles:
+
+----
+
+Title: Submission is closed
+
+----
+
+Date: 2018-10-16
+
+----
+
+Contentblocks:
+
+-
+  text: |
+    Thank you for submitting an abstract or panel!
+    You will be notified for the acceptance of your proposal by the 30th of November.
+  _key: text

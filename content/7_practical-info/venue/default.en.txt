@@ -1,0 +1,21 @@
+Previewfiles:
+
+----
+
+Title: Venue
+
+----
+
+Text:
+
+----
+
+Contentblocks:
+
+-
+  text: >
+    The main conference venue will be the
+    School of Architection, at National
+    Technical University of Athens, located
+    in a central neighbourhood.
+  _key: text

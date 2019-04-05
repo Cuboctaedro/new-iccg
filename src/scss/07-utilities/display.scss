@@ -10,7 +10,7 @@ $display-values: (
     'inline-block' : inline-block,
     'inline' : inline,
     'flex' : flex,
-    'remove' : none
+    'hidden' : none
 );
 
 @include utility($display-settings, $display-values);

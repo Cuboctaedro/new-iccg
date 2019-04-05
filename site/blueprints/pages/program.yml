@@ -1,0 +1,20 @@
+title: Programme Page
+
+tabs:
+    content:
+        label: Timeslots
+        icon: text
+        columns:
+          - width: 2/3
+            sections:
+                published:
+                    headline: Published Timeslots
+                    type: pages
+                    status: published
+                    templates: timeslot
+                draft:
+                    headline: Drafts
+                    type: pages
+                    status: draft
+                    templates: timeslot
+    seo: tabs/seo

@@ -1,0 +1,32 @@
+Previewfiles:
+
+----
+
+Title: Recomended accomodation
+
+----
+
+Text: etgWETY B ERYJUGTJR QWE4Ydfj rtk
+
+----
+
+Contentblocks:
+
+-
+  text: |
+    There are a number of hotels in the vicinity. We made a range of options, which you can find listed below, starting from low cost to more expensive choices.
+
+    (link: https://welcommonhostel.gr/ text: Welcommon Hostel target: _blank) (use the promo-code: ICCG2019 to get a better price when booking directly from the hostel's webpage)
+    (link: https://www.hostelworld.com/hosteldetails.php/Athens-Quinta/Athens/89258 text: Athens Quinta Hostel target: _blank)
+    (link: https://www.exarchion.com/ text: Exarchion Hotel target: _blank)
+    (link: http://athenswayhotel.gr/ text: Athens Way target: _blank)
+    (link: https://www.museum-hotel.gr/ text: Museum Hotel target: _blank)
+    (link: http://www.orion-dryades.com/ text: Orion and Dryades target: _blank)
+    (link: https://athensareoshotel.gr/ text: Areos Hotel target: _blank)
+    (link: http://www.arthotelathens.gr/accommodation.php text: Art Hotel Athens target: _blank)
+    (link: https://www.hotelstanley.gr/ text: The Stanley target: _blank)
+    (link: https://www.polisgrandhotel.gr/athens_central_hotel/ text: Polis Grand Hotel target: _blank)
+    (link: https://www.radissonblu.com/en/hotel-athens text: Radisson Blu Park Hotel Athens target: _blank)
+    (link: http://www.titania.gr/ text: Titania Hotel target: _blank)
+    (link: https://www.melia.com/en/hotels/greece/athens/melia-athens/index.html text: Melia Athens target: _blank)
+  _key: text

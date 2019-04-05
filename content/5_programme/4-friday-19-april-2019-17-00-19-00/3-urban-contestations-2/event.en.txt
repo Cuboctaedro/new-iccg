@@ -1,0 +1,54 @@
+Title: Urban contestations 2
+
+----
+
+Subject: s3
+
+----
+
+Room: 
+
+----
+
+Coordinators: 
+
+----
+
+Presentations: 
+
+- 
+  title: 'New geographies of cultural scene in brazilian and latin-american metropolises: the struggle of cultural movements from peripheral areas'
+  speaker: Raquel de Padua Pereira
+- 
+  title: 'Unravelling the rhetoric and practices of civic engagement: The landscape of participation in EU-funded urban projects'
+  speaker: Eirini Iliopoulou and Dimitris Pettas
+- 
+  title: 'The narrative of Exarchia in post-crisis Athens: Touristification of collective political identity and urban struggles'
+  speaker: >
+    Dimitra Olga-Koutra and Katerina
+    Stavridi
+- 
+  title: 'From Culture-led Development Planning to the Olympics: North-parisian Banlieues in the Grand Paris Era'
+  speaker: >
+    Sotiris Koskoletos and Katerina
+    Polychroniadi
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

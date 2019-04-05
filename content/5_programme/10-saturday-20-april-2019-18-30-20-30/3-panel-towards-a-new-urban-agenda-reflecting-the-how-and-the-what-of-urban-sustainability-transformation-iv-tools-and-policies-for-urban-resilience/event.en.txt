@@ -1,0 +1,31 @@
+Previewfiles: 
+
+----
+
+Title: Panel | Towards a new Urban Agenda – Reflecting the “how?” and the “what?” of urban sustainability transformation (IV): Tools and policies for urban resilience
+
+----
+
+Coordinators: Christina West and Wing Shing Tang
+
+----
+
+Presentations: 
+
+- 
+  title: "Sustainable cities and Colombia's 'territorial peace'-approach"
+  speaker: Angela Stienen
+- 
+  title: 'Blockchain in the service of management of urban crises: automated, decentralized systems of civil protection'
+  speaker: >
+    Dimitris Kalergis and Konstantinos
+    Lalenis
+- 
+  title: 'Reinforcing urban resilience of public places in Volos (Greece): Contribution of digital tools'
+  speaker: >
+    Tatiana Ruchinskaya and Konstantinos
+    Lalenis
+
+----
+
+Contentblocks: 

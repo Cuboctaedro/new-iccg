@@ -1,0 +1,20 @@
+Previewfiles:
+
+----
+
+Title: Update
+
+----
+
+Date:
+
+----
+
+Contentblocks:
+
+-
+  text: >
+    The provisionary ICCG 2019 programme and
+    registration for Field trips will be
+    available on the 27th of March.
+  _key: text

@@ -1,0 +1,20 @@
+title: Field Trips Page
+
+tabs:
+    content:
+        label: Field Trips
+        icon: text
+        columns:
+          - width: 2/3
+            sections:
+                published:
+                    headline: Published Field Trips
+                    type: pages
+                    status: published
+                    templates: fieldtrip
+                draft:
+                    headline: Drafts
+                    type: pages
+                    status: draft
+                    templates: fieldtrip
+    seo: tabs/seo

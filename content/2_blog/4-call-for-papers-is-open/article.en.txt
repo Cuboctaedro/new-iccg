@@ -1,0 +1,33 @@
+Previewfiles:
+
+----
+
+Tab1:
+
+----
+
+Title: ICCG 2019: Call for participation is open
+
+----
+
+Date: 2018-07-10
+
+----
+
+Contentblocks:
+
+-
+  text: |
+    (link: call-for-participation text: Call for Papers for the 8th ICCG) is now open
+
+    To submit an abstract or to propose a panel session
+
+    Deadline for abstract/panel  submission :  **30 September 2018**
+    Notification of acceptance : **30 November 2018**
+
+    Registration opens 1st December 2018 until 31st January 2019.
+    (link: registration text: See more information on Registration )
+
+    We look forward to your applications!
+    For any inquiries please contact us at: iccgathens2019@gmail.com
+  _key: text

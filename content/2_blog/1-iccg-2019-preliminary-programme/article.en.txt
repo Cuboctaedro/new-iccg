@@ -1,0 +1,18 @@
+Previewfiles:
+
+----
+
+Title: ICCG 2019 Preliminary Programme
+
+----
+
+Date: 2019-03-31
+
+----
+
+Contentblocks:
+
+-
+  text: |
+    Dear participants, (link: preliminary-programme-iccg-athens-2019.pdf text: a preliminary version of the ICCG 2019 Programme) is ready. Please, check it and let us know ASAP if there are any mistakes or omissions.
+  _key: text

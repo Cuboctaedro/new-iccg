@@ -1,0 +1,19 @@
+Previewfiles:
+
+----
+
+Title: New deadline
+
+----
+
+Date: 2018-10-01
+
+----
+
+Contentblocks:
+
+-
+  text: >
+    Submission deadline has been extended
+    until the 15th of October.
+  _key: text

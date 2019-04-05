@@ -1,0 +1,99 @@
+Title: Registration
+
+----
+
+Contentblocks: 
+
+- 
+  text: |
+    This conference is funded from registration fees, is non-profit and voluntarily-run.
+    
+    (link: https://docs.google.com/forms/d/e/1FAIpQLScNyeKHi2Hwgs6Z_0UQ-TLAqrRpm80nuH-DcyxLo-2ARznY6Q/viewform?usp=sf_link text: Registration Form target: _blank class: buttonlink )
+    
+    ### Fee Category
+    
+    **Full rate   |   340,00 €**
+    Full rate : for those with institutional support or high income.
+    
+    **Medium rate   | 170,00 €**
+    Medium rate: for those with no institutional support and medium income.
+    
+    **Low rate   |  80,00 €**
+    Low rate : low income, graduate students, unemployed.
+    
+    Fees apply for participants from both OECD and non-OECD countries.
+    It will be greatly appreciated if those who are able to pay the full fee do so, as this will support the attendance of low income and grand receiving participants.
+    
+    The registration fees cover: Conference activities and materials, two field-trips, daily lunch buffet and two dinners.
+    
+    **Attendance to the conference is free.**
+    A small fee will be charged for those joining the fieldtrips.
+    Registration for the fieldtrips will open on **10th March 2019**.
+    
+    By registering for the conference you indicate that you agree that all visa applications and approvals, personal injuries, medical expenses and treatments are your responsibility. By registering, you understand that the ICGG, conference Steering Committee and organizing team are not liable or responsible for any of the above. We encourage you to arrange travel and medical insurance to cover any personal contingencies.
+    
+    ## Payment info:
+    **Your registration will be confirmed once payment is received.**
+    
+    Bank to bank payment
+    Bank: ALPHA BANK (Stadiou 40, 10564, Athens, tel: +30 210 3260000)
+    BIC: CRBAGRAA
+    IBAN: GR8501403530353002002003713
+    Account Holder: INURA Athens
+    Reason for Payment: ICCG2019 & Your name!
+    
+    IMPORTANT: Bank transfer charges should be covered by the participant.
+    *If you encounter problems contact us at iccgathens2019@gmail.com*
+    
+    ## Cancellation policy
+    For cancellations up to one month prior to the conference: full reimbursement of fees
+    
+    ## Grants
+    As in previous ICCG conferences, the 8th ICCG conference will try to support the largest possible number of grants, depending on funds available. We are very grateful to the (link: https://antipodefoundation.org text: Antipode: a Radical Journal of Geography and Foundation) for supporting the ICCG2019 conference with a 5,000 GBP scholarship donation. The ICCG2019 will try to match this sum from registration funds.
+    
+    There are three grant choises:
+    **Full Grant** (travel up to 500euro, accomodationfor 5 nights and fee) _ 5 grants
+    **Travel and Fee waiver** (travel up to 350 euro) _ 10 grants
+    **Fee Waiver only** _ 15 grants
+    
+    The final number of grants in each category will be determined according to submitted requests. Consider contributing part of the cost, as this will allow more grants to be covered.
+    
+    ### Selection Criteria:
+    - **Student status and / or unwaged researchers**
+    - **Encouragement of women, the differently-abled, and members of minority groups**
+    - **Encouragement of – but not limited to – participants from the Global South**
+    - **Overall diversity in terms of topics (relative to the ICCG 2019 sub-themes)**
+    
+    Selection will be made by members of the Organising and Scientific Committees.
+    
+    *Grant application opens on 1 January 2019 and closes on 31 January 2019*
+    Grants results will be communicated by February 8 2019.
+    
+    ## VISA
+    If you require a VISA Invitation Letter, please fill in the appropriate form, (link: https://docs.google.com/forms/d/e/1FAIpQLSe2yYZ1C0dyca2U6NJSGCy-K7dfE2umVZ-BHpezs1_X42djuQ/viewform text: here target: _blank).
+    In the event that you need a VISA Invitation Letter in advance of registration, please submit the appropriate from asap, so that we can process your request directly.
+  _key: text
+  _uid: text_1554475574173_1236
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 
+
+----
+
+Text: 
+
+(formlink: abstract)
+(formlink: panel)

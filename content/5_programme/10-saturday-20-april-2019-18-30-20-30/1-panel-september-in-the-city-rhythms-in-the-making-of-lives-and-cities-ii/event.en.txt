@@ -1,0 +1,43 @@
+Previewfiles: 
+
+----
+
+Title: Panel | September in the city. Rhythms in the making of lives and cities II
+
+----
+
+Coordinators: 
+
+----
+
+Presentations: 
+
+- 
+  title: >
+    Dayclean. Catching yuh hand in
+    Georgetown
+  speaker: >
+    Linda Peake, Karen de Souza and Nicola
+    Marcus
+- 
+  title: >
+    Fall in the city? Poverty, women, and
+    the new workers’ villages in
+    post-socialist Shanghai
+  speaker: >
+    Penn Tsz Ting Ip and Michelle Tsung-yi
+    Huang
+- 
+  title: >
+    Cosmology and everyday urban life in
+    Ibadan
+  speaker: >
+    Grace Adeniyin Ogunyankin and Monica
+    Orisadare
+- 
+  title: 'Workshop 2: Comparative Urban Research, Power and Everyday Life, Alternative ways of seeing and visualizing, Concluding discussion'
+  speaker: ""
+
+----
+
+Contentblocks: 
