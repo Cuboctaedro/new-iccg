@@ -3,7 +3,7 @@
     @include mq('md') {
         @include typesize(16, 24);
     };
-    font-family: map-get($font-families, 'serif');
+    font-family: "abril-text", Georgia ,serif;
     p {
         margin-bottom: rem(18);
     }

@@ -3,13 +3,13 @@
 
     <?php snippet('components/pageheader') ?>
 
-    <div class="p-24 border-bottom-thick">
+    <div class="gutters-main gutters-vertical border-bottom-thick">
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0-Qt37nVsbnY6K3v4gwp43HLq6Xid0B2nRFfAmesnGwJ-iQ/viewform" rel="noopener noreferrer" class="button" target="_blank" >Field Trip Registration</a>
     </div>
     <ul itemprop="mainEntity" itemscope itemtype="https://schema.org/ItemList">
     <?php foreach($page->children()->sortBy('number', 'asc') as $child): ?>
         <li class="border-bottom-thin">
-            <a href="<?= $child->url() ?>" class="p-24 block hover__bg-grey-light">
+            <a href="<?= $child->url() ?>" class="gutters-main gutters-vertical block hover__bg-grey-light">
                 <article itemprop="itemListElement" itemscope itemtype="https://schema.org/Event">
 
                     <header class="mb-24 bg-black c-white pl-8 pr-8 pt-2 pb-4">

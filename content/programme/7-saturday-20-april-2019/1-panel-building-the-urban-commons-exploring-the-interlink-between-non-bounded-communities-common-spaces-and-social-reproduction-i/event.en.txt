@@ -18,6 +18,15 @@ Presentations:
 
 ----
 
+Contentblocks: 
+
+- 
+  text: 'Roundtable A: Chiara Tornaghi, Sergio Ruiz Cayuela (co-convenors),  Stavros Stavrides,  Ines Morales, Natasha Aruri, Elona Hoover, Ilenia Iengo, Gerald Aiken and Severin Halder'
+  _key: text
+  _uid: text_1554547150870_1552
+
+----
+
 Description: 
 
 ----

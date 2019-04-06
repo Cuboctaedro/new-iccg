@@ -8,6 +8,7 @@
     &.is-active {
         background-color:  map-get($colors, 'grey');
         color: map-get($colors, 'white');
+        border-bottom: 1px solid map-get($colors, 'grey');
     }
 
 }

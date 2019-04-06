@@ -1,3 +1,3 @@
-<header class="mb-24 ml-24">
+<header class="mb-24 gutters-main">
     <?php snippet('components/pagetitle') ?>
 </header>

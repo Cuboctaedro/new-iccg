@@ -3,7 +3,7 @@
 
     <?php snippet('components/pageheader') ?>
 
-    <div class="pl-24 pb-48 border-top-thin pt-24">
+    <div class="gutters-main pb-48 border-top-thin pt-24">
         <div class="generated max-w-672 ">
             <?php snippet('contentblocks/index') ?>
 

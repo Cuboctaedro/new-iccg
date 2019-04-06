@@ -27,3 +27,11 @@
 .border-top-white {
     border-top: 1px solid map-get($colors, 'white');
 }
+
+.border-top-grey {
+    border-top: 1px solid map-get($colors, 'grey');
+}
+
+.border-bottom-grey {
+    border-bottom: 1px solid map-get($colors, 'grey');
+}

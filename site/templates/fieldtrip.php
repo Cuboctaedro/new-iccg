@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-<article itemprop="mainEntity" itemscope itemtype="https://schema.org/Event" class="p-24">
+<article itemprop="mainEntity" itemscope itemtype="https://schema.org/Event" class="gutters-main">
 
     <header class="mb-24 bg-black c-white pl-8 pr-8 pt-2 pb-4">
         <h1 itemprop="name" class="heading-4 tt-upper">FT<?= $page->number() ?>: <?= $page->title() ?></h1>

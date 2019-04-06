@@ -1,5 +1,5 @@
 .button {
-    font-family: map-get($font-families, 'sans');
+    font-family: "acumin-pro-condensed", "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     @include typesize(16, 32);
     height: rem(36);

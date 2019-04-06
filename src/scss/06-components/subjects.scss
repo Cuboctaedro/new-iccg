@@ -1,4 +1,7 @@
 .subject__header {
+    &.is-active {
+        border-bottom: 1px solid map-get($colors, 'grey');
+    }
     @each $subject, $color in $subjectcolors {
         &.is-active.#{$subject} {
             background-color: $color;
@@ -14,7 +17,7 @@
     width: rem(24);
     height: rem(24);
     @include typesize(18, 24);
-    font-family: map-get($font-families, 'titles');
+    font-family: "acumin-pro-extra-condensed", Impact,Haettenschweiler,"Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black","sans serif";
     color: map-get($colors, 'white');
     text-align: center;
     text-transform: uppercase;

@@ -1,9 +1,9 @@
 <?php snippet('header') ?>
 <section class="">
-    <div class="p-24">
+    <div class="gutters-main gutters-vertical">
         <img src="<?= $site->logo()->toFile()->url() ?>" class="d-block max-w-full"/>
     </div>
-    <div class="p-24">
+    <div class="gutters-main gutters-vertical">
         <p class="visually-hidden">
             8th International Conference of Critical Geography 2019<br/>
         </p>
@@ -15,7 +15,7 @@
     </div>
 </section>
 <?php if($page->text()->isNotEmpty()): ?>
-<section class="p-24 border-bottom-thin">
+<section class="gutters-main gutters-vertical border-bottom-thin">
     <div class="generated max-w-672">
         <?= $page->text()->kt(); ?>
     </div>

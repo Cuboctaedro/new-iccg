@@ -1,5 +1,5 @@
 <li class="hoverblock  border-top-thin">
-    <a href="<?= $item->url() ?>" class="block animate p-24 hover__bg-grey-light">
+    <a href="<?= $item->url() ?>" class="block animate gutters-main gutters-vertical hover__bg-grey-light">
         <article itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
             <header class="mb-12">
                 <h3 itemprop="headline" class="heading-2 mb-12"><?= $item->title() ?></h3>
