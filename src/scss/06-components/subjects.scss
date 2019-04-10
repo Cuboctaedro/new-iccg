@@ -17,7 +17,7 @@
     width: rem(24);
     height: rem(24);
     @include typesize(18, 24);
-    font-family: "acumin-pro-extra-condensed", Impact,Haettenschweiler,"Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black","sans serif";
+    font-family: map-get($font-families, 'titles');
     color: map-get($colors, 'white');
     text-align: center;
     text-transform: uppercase;

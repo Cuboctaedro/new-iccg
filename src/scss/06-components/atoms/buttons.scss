@@ -1,6 +1,7 @@
-.button {
-    font-family: "acumin-pro-condensed", "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+.button,
+.buttonlink {
+    font-family: map-get($font-families, 'sans');
+    font-weight: 600;
     @include typesize(16, 32);
     height: rem(36);
     display: inline-block;
@@ -12,9 +13,12 @@
     background-color: map-get($colors, 'white');
     box-shadow: 6px 6px 0px 0px map-get($colors, 'grey');
     white-space: nowrap;
-    &:hover {
+    .generated & {
+        text-decoration: none;
+    }
+    &:hover,
+    .generated &:hover{
         background-color: map-get($colors, 'black');
         color: map-get($colors, 'white');
     }
-
 }

@@ -1,4 +1,4 @@
-Previewfiles: 
+Previewfiles:
 
 ----
 
@@ -22,7 +22,7 @@ Location: Goudi Μetropolitan Park
 
 ----
 
-Heading: Goudi-Ilisia Μetropolitan Park
+Heading: Goudi-Ilisia Metropolitan Park
 
 ----
 
@@ -34,7 +34,7 @@ Picture: goydi.jpg
 
 ----
 
-Map: 
+Map:
 
 ----
 

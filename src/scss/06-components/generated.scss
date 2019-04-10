@@ -3,7 +3,7 @@
     @include mq('md') {
         @include typesize(16, 24);
     };
-    font-family: "abril-text", Georgia ,serif;
+    font-family: map-get($font-families, 'serif');
     p {
         margin-bottom: rem(18);
     }
@@ -17,5 +17,11 @@
     }
     strong {
         font-weight: 700;
+    }
+    a {
+        text-decoration: underline;
+    }
+    a:hover {
+        color: map-get($colors, 'red');
     }
 }

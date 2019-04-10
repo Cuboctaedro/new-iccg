@@ -6,14 +6,4 @@ $font-family-settings: (
     'property' : 'font-family'
 );
 
-
-
-.ff-sans {
-    font-family: "acumin-pro-condensed", "Helvetica Neue",Helvetica,Arial,sans-serif;
-}
-.ff-serif {
-    font-family: "abril-text", Georgia, serif;
-}
-.ff-titles {
-    font-family: "acumin-pro-extra-condensed", Impact,Haettenschweiler,"Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black", sans-serif;
-}
+@include utility($font-family-settings, $font-families);

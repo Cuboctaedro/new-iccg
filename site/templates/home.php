@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 <section class="">
     <div class="gutters-main gutters-vertical">
-        <img src="<?= $site->logo()->toFile()->url() ?>" class="d-block max-w-full"/>
+        <img src="<?= $site->logo()->toFile()->url() ?>" class="d-block max-w-full" alt="ICCG 2019 - logo"/>
     </div>
     <div class="gutters-main gutters-vertical">
         <p class="visually-hidden">

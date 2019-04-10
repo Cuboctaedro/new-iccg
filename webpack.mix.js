@@ -8,7 +8,7 @@ mix
     .js("src/app.js", "assets")
     .copyDirectory("src/images", "assets/images")
     .copyDirectory("src/icons", "assets/images")
-    // .copyDirectory("src/fonts", "assets/fonts")
+    .copyDirectory("src/fonts", "assets/fonts")
     .sass("src/app.scss", "assets")
     .options({
         processCssUrls: false,
@@ -22,7 +22,7 @@ mix
     })
     .purgeCss({
         folders: ['site/templates', 'site/snippets', 'site/snippets/components', 'site/snippets/contentblocks', 'site/snippets/nav'],
-        whitelist: ['is-active', 's1', 'bg-s1', 'bg-s1-light', 's2', 'bg-s2', 'bg-s2-light', 's3', 'bg-s3', 'bg-s3-light', 's4', 'bg-s4', 'bg-s4-light', 's5', 'bg-s5', 'bg-s5-light', 's6', 'bg-s6', 'bg-s6-light', 's7', 'bg-s7', 'bg-s7-light', 's8', 'bg-s8', 'bg-s8-light']
+        whitelist: ['is-active', 's1', 'bg-s1', 'bg-s1-light', 's2', 'bg-s2', 'bg-s2-light', 's3', 'bg-s3', 'bg-s3-light', 's4', 'bg-s4', 'bg-s4-light', 's5', 'bg-s5', 'bg-s5-light', 's6', 'bg-s6', 'bg-s6-light', 's7', 'bg-s7', 'bg-s7-light', 's8', 'bg-s8', 'bg-s8-light', 'buttonlink']
     })
     .version()
 

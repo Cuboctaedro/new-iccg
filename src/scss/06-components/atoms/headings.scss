@@ -1,6 +1,6 @@
 @mixin heading-1 {
-    font-family: "acumin-pro-extra-condensed", Impact, Haettenschweiler, "Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black","sans serif";
-    font-weight: 400;
+    font-family: map-get($font-families, 'titles');
+    font-weight: 600;
     @include typesize(36, 36);
     @include mq('lg') {
         @include typesize(48, 48);
@@ -13,8 +13,8 @@
 
 
 @mixin heading-2 {
-    font-family: "acumin-pro-extra-condensed", Impact,Haettenschweiler,"Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black","sans serif";
-    font-weight: 400;
+    font-family: map-get($font-families, 'titles');
+    font-weight: 600;
     @include typesize(24, 24);
     @include mq('lg') {
         @include typesize(36, 36);
@@ -27,8 +27,8 @@
 }
 
 @mixin heading-3 {
-    font-family: "acumin-pro-extra-condensed", Impact,Haettenschweiler,"Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black","sans serif";
-    font-weight: 400;
+    font-family: map-get($font-families, 'titles');
+    font-weight: 600;
     @include typesize(18, 18);
     @include mq('lg') {
         @include typesize(24, 24);
@@ -40,8 +40,8 @@
 }
 
 @mixin heading-4 {
-    font-family: "acumin-pro-condensed", "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-family: map-get($font-families, 'sans');
+    font-weight: 600;
     @include typesize(16, 18);
     @include mq('md') {
         @include typesize(20, 24);

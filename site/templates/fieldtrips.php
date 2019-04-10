@@ -9,11 +9,11 @@
     <ul itemprop="mainEntity" itemscope itemtype="https://schema.org/ItemList">
     <?php foreach($page->children()->sortBy('number', 'asc') as $child): ?>
         <li class="border-bottom-thin">
-            <a href="<?= $child->url() ?>" class="gutters-main gutters-vertical block hover__bg-grey-light">
+            <a href="<?= $child->url() ?>" class="gutters-main gutters-vertical block hover__bg-grey-light" name="<?= $child->heading() ?>">
                 <article itemprop="itemListElement" itemscope itemtype="https://schema.org/Event">
 
-                    <header class="mb-24 bg-black c-white pl-8 pr-8 pt-2 pb-4">
-                        <h2 itemprop="name" class="heading-4 tt-upper">FT<?= $child->number() ?>: <?= $child->title() ?></h2>
+                    <header class="mb-24 bg-black c-white pl-8 pr-8 pt-4 pb-2">
+                        <h2 itemprop="name" class="ff-sans ls-loose tt-upper">FT<?= $child->number() ?>: <?= $child->title() ?></h2>
                     </header>
 
                     <div class="flex flex-row flex-wrap">
