@@ -1,0 +1,58 @@
+Title: Panel | September in the city. Rhythms in the making of lives and cities I
+
+----
+
+Subject: s1
+
+----
+
+Room: Room A 003
+
+----
+
+Coordinators: Chair: Beverley Mullings, Queen's University
+
+----
+
+Presentations: 
+
+- 
+  title: Point, Counterpoint Cairo
+  speaker: 'Mariz Kelada, Brown University & Genurb and Mai Amr, Nahda Cultural Association & Genurb'
+- 
+  title: Monsoon in Mumbai
+  speaker: >
+    Shilpa Phadke, Tata Institute of Social
+    Sciences; Shilpa Ranade, Tata Institute
+    of Social Sciences; Sameera Khan,
+    Independent Researcher; and Shraddha
+    Sharma, Tata Institute of Social
+    Sciences
+- 
+  title: 'Ramοallah: the Watchtower'
+  speaker: >
+    Natasha Aruri, UR°BANA and Mai
+    alBattat, Independent Researcher
+- 
+  title: 'Workshop 1: i.Comparative urban research, ii. Power and Everyday Life, iii. Alternative ways of seeing and visualizing'
+  speaker: "i. Beverley Mullings, Queen's University and Cindi Katz, The City University of New York ii. Elsa Koleth, York University and Omnia Khalil, The City University of New York, iii. Andreas Brück, TU Berlin and Noha Khattab, Genurb"
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

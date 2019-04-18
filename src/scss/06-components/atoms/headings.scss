@@ -29,7 +29,7 @@
 @mixin heading-3 {
     font-family: map-get($font-families, 'titles');
     font-weight: 600;
-    @include typesize(18, 18);
+    @include typesize(20, 24);
     @include mq('lg') {
         @include typesize(24, 24);
     };
@@ -41,10 +41,10 @@
 
 @mixin heading-4 {
     font-family: map-get($font-families, 'sans');
-    font-weight: 600;
+    font-weight: 700;
     @include typesize(16, 18);
     @include mq('md') {
-        @include typesize(20, 24);
+        @include typesize(18, 24);
     };
 }
 

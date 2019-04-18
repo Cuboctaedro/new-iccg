@@ -13,6 +13,11 @@ tabs:
                     type: fields
                     fields:
                         text: fields/fulleditor
+                        poster:
+                            type: files
+                            layout: cards
+                            multiple: false
+                            label: Poster
                         subtitle:
                             type: text
                             label: Subtitle

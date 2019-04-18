@@ -1,0 +1,55 @@
+Title: Urban contestations 6
+
+----
+
+Subject: s3
+
+----
+
+Room: Room A 006
+
+----
+
+Coordinators: Chair: Christopher Chanco
+
+----
+
+Presentations: 
+
+- 
+  title: 'From contestation to governance: Comparative insights into the institutionalisation of social movements in Madrid and Athens'
+  speaker: >
+    Athina Arampatzi, Universidad Autonoma
+    de Madrid and Michael Janoschka,
+    University of Leeds
+- 
+  title: >
+    Commoning in concrete environments –
+    cultivating poethics of discomfort
+  speaker: Elona Hoover, University of Brighton
+- 
+  title: 'Prefigurative urbanism and radical infrastructural repertoires: architectural collectives and urban social movements in South America'
+  speaker: >
+    Leandro Minuchin, University of
+    Manchester
+- 
+  title: 'Antimetrology: Notes for a revolutionary time (and space) program'
+  speaker: >
+    Diego Cervantes Ruiz, Independent
+    Researcher
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 

@@ -8,18 +8,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="<?= $page->url() ?>"/>
 
-    <!-- <meta http-equiv="Content-Security-Policy" content="script-src 'self' use.typekit.net;">
-    <meta http-equiv="Content-Security-Policy" content="img-src 'self' p.typekit.net;">
-    <meta http-equiv="Content-Security-Policy" content="connect-src performance.typekit.net;"> -->
-
-
     <?php if($kirby->multilang()): ?>
         <?php foreach($kirby->languages() as $lang): ?>
             <link rel="alternate" hreflang="<?= $lang->code() ?>" href="<?= $page->url($lang->code()) ?>" />
         <?php endforeach; ?>
     <?php endif; ?>
     <?php snippet('meta');?>
-    <!-- <link rel="stylesheet" href="https://use.typekit.net/qhv2wsy.css" > -->
+    <link rel="stylesheet" href="https://use.typekit.net/ysk5rql.css">
     <?= mix('/app.css') ?>
 
 </head>

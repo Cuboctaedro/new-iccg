@@ -1,0 +1,58 @@
+Title: Honorary Doctorate Ceremony  for the Distinguished Professor DAVID HARVEY, 18 April 2019
+
+----
+
+Date: 2019-04-10
+
+----
+
+Contentblocks: 
+
+- 
+  text: |
+    The Department of Geography, Harokopio University, Athens, invites to the
+    **Honorary Doctorate Ceremony, for the Distinguished Professor
+    DAVID HARVEY**
+    
+    After the ceremony Professor Harvey will speak about
+    ***Τhe geographical consequences of capital's primary contradiction***
+    
+    **Thursday, 18 April, 18:30**
+    Central Auditorium, Old Building, Harokopio University
+    El. Venizelou 70, Kallithea, Athens
+    
+    Location: https://goo.gl/maps/yhTXnq9eDR12
+    
+    ---
+    
+    *In Greek*
+    
+    **Ανακήρυξη του Διακεκριμένου Καθηγητή DAVID HARVEY
+    σε Επίτιμο Διδάκτορα του Τμήματος Γεωγραφίας του Χαροκοπείου Πανεπιστημίου**
+    
+    Η ομιλία του καθηγητή Harvey μετά την αναγόρευση θα έχει τίτλο:
+    ***Τhe geographical consequences of capital's primary contradiction***
+    
+    **Πέμπτη 18 Απριλίου, ώρα προσέλευσης 18:30**
+    Μεγάλο Αμφιθέατρο, Κεντρικό Κτίριο, Χαροκόπειο Πανεπιστήμιο
+    Ελευθερίου Βενιζέλου 70 (πρώην Θησέως), Καλλιθέα
+  _key: text
+  _uid: text_1554897010338_1506
+- 
+  image:
+    - harvey.jpg
+  caption: David Harvey
+  _key: image
+  _uid: image_1554897364504_1681
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 

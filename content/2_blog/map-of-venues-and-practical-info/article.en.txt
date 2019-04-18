@@ -1,0 +1,28 @@
+Title: Map of Venues and Practical Info
+
+----
+
+Date: 2019-04-10
+
+----
+
+Contentblocks: 
+
+- 
+  text: |
+    Dear ICCG 2019 participants,
+    Please check the "Practical Info" on the site, where a map of the venues is uploaded!
+  _key: text
+  _uid: text_1554889951937_72818
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 

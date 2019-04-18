@@ -1,0 +1,41 @@
+Title: Documentary: The gifted Island
+
+----
+
+Subject: 
+
+----
+
+Room: Amphitheatre 002
+
+----
+
+Coordinators: Emmanuèle Cunningham Sabot, Ecole Normale Supérieure
+
+----
+
+Presentations: 
+
+----
+
+Contentblocks: 
+
+- 
+  text: |
+    Land use and property ownership are often taken-for-granted elements of the socio-legal landscape. Looking at the relationships between land use, ownership and law reveals that they are far from neutral (See Valverde 2005; Porter 2014; Fawaz 2016; Blomley 2017; Rutland 2018). Such relationships frame how landscapes and territories produce and reproduce themselves, particularly in the context of the liberal-democratic state. Caught in a downward spiral of depopulation, the inhabitants of the small island of Scalpay in the Outer Hebrides of Scotland, were tendered an unexpected opportunity, taking the form of an exceptional and original gift. Fred Taylor, their avant-garde landlord / landowner took the unusual decision to offer the island to its community of 320 inhabitants. At this very special and challenging moment in their history, how did the islanders perceive this opportunity?
+    
+    A French documentary “The Gifted Island” with English, French and Scottish Gaelic dialogues (subtitled into English). Duration 50 mn
+  _key: text
+  _uid: text_1555489901153_2554
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 

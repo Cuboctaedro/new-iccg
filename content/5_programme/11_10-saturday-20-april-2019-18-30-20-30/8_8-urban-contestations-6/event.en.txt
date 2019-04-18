@@ -1,0 +1,56 @@
+Title: Urban contestations 4
+
+----
+
+Subject: s3
+
+----
+
+Room: Room A 006
+
+----
+
+Coordinators: Chair: Spyridon Logothetis
+
+----
+
+Presentations: 
+
+- 
+  title: 'Thinking solidarity from South to North: Frugal innovation and institutional flexibility'
+  speaker: >
+    Rao Dhananka Swetha, University of
+    Applied Sciences and Arts
+- 
+  title: 'Alternative Economies and commoning in Catalonia: Degrowth practices for new worlds'
+  speaker: >
+    Xavier Balaguer Rasillo, University of
+    Zurich
+- 
+  title: >
+    A Visual Critique of City Making in A
+    Turkish Provincial City
+  speaker: Meric Kirmizi, Ondokuz Mayis University
+- 
+  title: 'Contested Space: A study of negotiations of public space for livelihoods in Old Delhi'
+  speaker: Richa Singh, Independent Researcher
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

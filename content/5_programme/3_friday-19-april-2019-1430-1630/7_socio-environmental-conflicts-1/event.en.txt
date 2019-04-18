@@ -1,0 +1,55 @@
+Title: Socio-environmental conflicts 1
+
+----
+
+Subject: s7
+
+----
+
+Room: Room A 106
+
+----
+
+Coordinators: Chair: Angelos Varvarousis
+
+----
+
+Presentations: 
+
+- 
+  title: 'Paradise Lost: Revisiting the in(visible) colonial necropolitics of the British bomb'
+  speaker: >
+    Becky Alexis-Martin, Manchester
+    Metropolitan University
+- 
+  title: >
+    The role of social movements for the
+    protection of open public spaces in
+    Athens (2000-2014)
+  speaker: >
+    Polina Prentou, National Technical
+    University of Athens
+- 
+  title: >
+    Environmental justice through food
+    activism
+  speaker: Zeynep Kadirbeyoglu, Bogazici University
+- 
+  title: 'GMOs on trial: How social movements turn science-based propaganda into spaces of political possibility'
+  speaker: Barbara Van Dyck, University of Sussex
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 

@@ -1,0 +1,51 @@
+Title: Field trips
+
+----
+
+Subject: 
+
+----
+
+Room: 
+
+----
+
+Coordinators: 
+
+----
+
+Presentations: 
+
+----
+
+Contentblocks: 
+
+- 
+  text: |
+    FT1: CENTER OF ATHENS: OMONIA, METAXOURGEIO, KERAMEIKOS: Contested narratives for the city centre: Migration and (re)development
+    
+    FT2: EXARCHIA, AGIOS PANTELEIMONAS, VICTORIA SQUARE: Movements and Counter-movements
+    
+    FT3: KIPSELI NEIGHBORHOOD: Multi-ethnic coexistence in a central neighbourhood of Athens
+    
+    FT4: AKADIMIA PLATONOS: Developments, conflicts and bottom-up initiatives in a historic neighbourhood of Athens
+    
+    FT5: PORT OF PIRAEUS AND DRAPETSONA: Chinese investments, Infrastructural concerns and historical refugees' settlements
+  _key: text
+  _uid: text_1554835039435_41798
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

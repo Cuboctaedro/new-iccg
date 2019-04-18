@@ -1,0 +1,51 @@
+Title: War, security, humanitarianism 1
+
+----
+
+Subject: s2
+
+----
+
+Room: Amphitheatre 002
+
+----
+
+Coordinators: Chair: Martin Lemberg-Pedersen
+
+----
+
+Presentations: 
+
+- 
+  title: 'The enigmatic border: policing nation, culture and solidarity on Europe’s frontier'
+  speaker: Zoe Holman, University of Melbourne
+- 
+  title: 'Urgency and radical images: contested media narratives of the so called migration crisis in the post decade'
+  speaker: Laura Cugusi, Independent Researcher
+- 
+  title: >
+    Survival and predation in the
+    humanitarian economy of Lesvos
+  speaker: >
+    Polly Pallister-Wilkins, University of
+    Amsterdam and Anja K. Franck, University
+    of Gothenburg
+- 
+  title: 'Doing refugee aid: precarious work within humanitarian spaces'
+  speaker: Elisa Pascucci, University of Helsinki
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 

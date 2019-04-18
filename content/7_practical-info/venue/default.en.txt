@@ -1,0 +1,32 @@
+Title: Venue
+
+----
+
+Contentblocks: 
+
+- 
+  text: |
+    The main conference venue will be the School of Architecture, at National Technical University of Athens, located in a central neighbourhood.
+    The address is: 42 Patission str., 10682 Athens, **ENTRANCE: from Stournari str.**
+  _key: text
+  _uid: text_1554881018776_2414
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 
+
+----
+
+Text: 

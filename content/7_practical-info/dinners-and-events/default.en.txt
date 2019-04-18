@@ -1,0 +1,46 @@
+Title: Social Events
+
+----
+
+Contentblocks: 
+
+- 
+  text: |
+    **Friday 19 April 2019, 21.00-23.00**
+    Social Event, Migrants Social Center, 13-15 Tsamadou str., Exarchia
+  _key: text
+  _uid: text_1554884439791_1495
+- 
+  image:
+    - steki-metanaston.jpg
+  caption: ""
+  _key: image
+  _uid: image_1554889488033_68890
+- 
+  text: |
+    **Monday 22 April 2019, 21.00-23.00**
+    Social Event, Polis Art Café, 5 Pesmazoglou str.
+  _key: text
+  _uid: text_1554889506556_69015
+- 
+  image:
+    - polis-art-cafe.jpg
+  caption: ""
+  _key: image
+  _uid: image_1554889510836_69130
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

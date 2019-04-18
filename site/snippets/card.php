@@ -3,7 +3,7 @@
         <article itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
             <header class="mb-12">
                 <h2 itemprop="headline" class="heading-2 mb-12"><?= $item->title() ?></h2>
-                <time itemprop="datePublished" class="heading-4"><?= $item->date()->toDate('l F jS, Y') ?></time>
+                <time itemprop="datePublished" class="ff-serif fs-italic"><?= $item->date()->toDate('l F jS, Y') ?></time>
             </header>
             <div class="ff-serif max-w-672"><?= $item->summary() ?></div>
         </article>

@@ -1,6 +1,5 @@
 type: files
-layout: cards
-template: image
+layout: list
 headline:
     en: Images
     el: Εικόνες

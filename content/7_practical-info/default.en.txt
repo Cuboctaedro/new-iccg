@@ -1,0 +1,41 @@
+Title: Practical Info
+
+----
+
+Contentblocks: 
+
+- 
+  text: |
+    The conference will be held at the School of Architecture, **National Technical University of Athens** (NTUA, Patission Complex), which is in a very central location in downtown Athens.
+    
+    The address is: 42 Patission str., 10682 Athens, **ENTRANCE: from Stournari str.**
+    
+    (pagelist: subpages)
+  _key: text
+  _uid: text_1554880637745_1259
+- 
+  image:
+    - map-athens-venues.png
+  caption: 'Map of Athens & Venues of Social Events'
+  _key: image
+  _uid: image_1554880730939_1479
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 
+
+----
+
+Text: 

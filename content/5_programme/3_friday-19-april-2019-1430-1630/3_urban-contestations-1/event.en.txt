@@ -1,0 +1,57 @@
+Title: Urban contestations 1
+
+----
+
+Subject: s3
+
+----
+
+Room: Room A 003
+
+----
+
+Coordinators: Chair: Hara Kouki
+
+----
+
+Presentations: 
+
+- 
+  title: 'New geographies of cultural scene in brazilian and latin-american metropolises: the struggle of cultural movements from peripheral areas'
+  speaker: >
+    Raquel de Padua Pereira, State
+    University of Campinas.
+- 
+  title: 'Unravelling the rhetoric and practices of civic engagement: The landscape of participation in EU-funded urban projects'
+  speaker: >
+    Eirini Iliopoulou, Panteion University
+    and Dimitris Pettas, Panteion University
+- 
+  title: 'The narrative of Exarchia in post-crisis Athens: Touristification of collective political identity and urban struggles'
+  speaker: >
+    Dimitra Olga-Koutra, National Technical
+    University of Athens and Katerina
+    Stavridi, National Technical University
+    of Athens
+- 
+  title: '"From Culture-led Development Planning to the Olympics: North-parisian Banlieues in the Grand Paris Era"'
+  speaker: >
+    Sotiris Koskoletos, Harokopio University
+    and Katerina Polychroniadi, Ιndependent
+    researcher
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 

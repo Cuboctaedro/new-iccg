@@ -1,0 +1,57 @@
+Title: Austerity urbanism and social reproduction 1
+
+----
+
+Subject: s1
+
+----
+
+Room: Room A 006
+
+----
+
+Coordinators: Chair: Anders Lund Hansen
+
+----
+
+Presentations: 
+
+- 
+  title: 'Dispossession by regulation: the political economy of non-performing loans and housing foreclosure in Spain'
+  speaker: Ismael Yrigoy, Uppsala University
+- 
+  title: >
+    Transformations in the field of house
+    and land ownership in Greece in the
+    aftermath of the public debt crisis, and
+    the consequent financialization of daily
+    life
+  speaker: >
+    Eleni Ploumidi, National Technical
+    University of Athens
+- 
+  title: 'Austerity urbanism and short-term rentals: Impacts on the “Greek housing system” in Thessaloniki'
+  speaker: >
+    Philipp Katsinas, London School of
+    Economics and Political Science
+- 
+  title: >
+    Gentrification through commodification
+    and financialisation in Hong Kong
+  speaker: Emre Erol, Independent Researcher
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 

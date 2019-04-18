@@ -1,0 +1,58 @@
+Title: Urban contestations 2
+
+----
+
+Subject: s3
+
+----
+
+Room: Room A 006
+
+----
+
+Coordinators: Chair: Bernd Belina
+
+----
+
+Presentations: 
+
+- 
+  title: 'From resistance to consent: Institutionalisation of right to housing'
+  speaker: Ozlem Celik, Lund University
+- 
+  title: >
+    The home as a contact zone in
+    ethno-national urban contestations
+  speaker: Tova Fenster, Tel Aviv University
+- 
+  title: 'Common resistance: renewed politics and activism of contemporary housing questions'
+  speaker: >
+    Anders Lund Hansen, Lund University and
+    Louise Fabian, University of Aarhus
+- 
+  title: '"Let’s Build a Home": Reconstruction of place, identity and citizenship through collective action'
+  speaker: >
+    Spyridon Logothetis, The Open
+    University, Eleni Andreouli, The Open
+    University and John Dixon, The Open
+    University
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

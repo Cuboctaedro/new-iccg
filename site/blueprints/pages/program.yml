@@ -17,4 +17,16 @@ tabs:
                     type: pages
                     status: draft
                     templates: timeslot
+                programmefile:
+                    headline: File
+                    type: fields
+                    fields:
+                        programmefile:
+                            type: files
+                            multiple: false
+                            label: PDF
+          - width: 1/3
+            sections:
+                pagefiles:
+                    extends: sections/pagefiles
     seo: tabs/seo

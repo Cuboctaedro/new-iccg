@@ -1,0 +1,48 @@
+Title: Social Event
+
+----
+
+Subject: 
+
+----
+
+Room: 
+
+----
+
+Coordinators: 
+
+----
+
+Presentations: 
+
+----
+
+Contentblocks: 
+
+- 
+  text: '**Migrants Social Center, 13-15 Tsamadou st., Exarchia**'
+  _key: text
+  _uid: text_1554831469816_18762
+- 
+  image:
+    - steki-metanaston.jpg
+  caption: ""
+  _key: image
+  _uid: image_1554888755636_63679
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

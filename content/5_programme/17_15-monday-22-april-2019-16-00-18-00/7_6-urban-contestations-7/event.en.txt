@@ -1,0 +1,62 @@
+Title: Urban Contestations 5
+
+----
+
+Subject: s3
+
+----
+
+Room: Room A 106
+
+----
+
+Coordinators: Chair: Dimitris Pettas
+
+----
+
+Presentations: 
+
+- 
+  title: 'Smart city and urban resilience: introducing blockchain systems in civil protection'
+  speaker: >
+    Dimitris Kalergis, University of
+    Thessaly and Konstantinos Lalenis,
+    University of Thessaly
+- 
+  title: 'Street Vending in the “Smart” City: The case of the Smart City Mission and Street Vendors’ Rights in New Delhi'
+  speaker: >
+    Aravind Unni, Tata Institute of Social
+    Sciences and Deeksha, Tata Institute of
+    Social Sciences
+- 
+  title: 'Spatial Adhocism- an Apparatus to Theorise Urban Politics in Kolkata, India'
+  speaker: Raktim Ray, The Open University
+- 
+  title: >
+    Exchanging methods and knowledge in
+    Athens
+  speaker: >
+    Hariklia Hari, National Technical
+    University of Athens and Iosif
+    Effraimidis, Residents of Mets
+    Initiative
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

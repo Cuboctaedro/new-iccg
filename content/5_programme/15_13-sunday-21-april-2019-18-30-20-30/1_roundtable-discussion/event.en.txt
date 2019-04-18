@@ -1,0 +1,97 @@
+Title: "Uneven development, Everywhere war and Radical praxis" | Keynote Roundtable Discussion
+
+----
+
+Subject: 
+
+----
+
+Room: Ceremony Hall
+
+----
+
+Coordinators: 
+
+----
+
+Presentations: 
+
+----
+
+Contentblocks: 
+
+- 
+  image:
+    - costis-hadjimichalis.jpg
+  caption: Costis Hadjimichalis
+  picture: costis-hadjimichalis.jpg
+  _key: image
+  _uid: image_1554392212444_139
+- 
+  text: 'Costis Hadjimichalis is Professor Emeritus and teaches graduate courses at the Geography Department, Harokopio University, Athens. Among his recent books are: Schuldenkrise und Landraub in Griechenland, Westfӓlishes Dampfboot, 2016 and Crises Spaces. Structures, resistance and solidarity in Southern Europe, Routledge, 2017.'
+  _key: text
+  _uid: text_1554392212444_148
+- 
+  image:
+    - leontidou-benakeio-113.jpg
+  caption: Lila Leontidou
+  picture: leontidou-l.jpg
+  _key: image
+  _uid: image_1554392212444_157
+- 
+  text: >
+    Professor Lila Leontidou, Architect,
+    Planner and Geographer, Dipl.Arch
+    (NTU-EMΠ), M.Sc (LSE), PhD
+    (Univ.London) has been at different
+    times a permanent faculty member in 4
+    Greek Universitiesand a British one
+    (KCL),has contributed in the
+    establishment of the first Department of
+    Geography in Greece, at the University
+    of the Aegean, has been appointed an
+    International Fellow and visiting
+    professor in several European and
+    American Universities, and has published
+    220 worksin greek, english, french,
+    spanish, italian, german and japanese.
+  _key: text
+  _uid: text_1554392212444_166
+- 
+  image:
+    - phototm2019.jpg
+  caption: Thomas Maloutas
+  picture: maloutas-d.jpg
+  _key: image
+  _uid: image_1554392212444_175
+- 
+  text: 'Thomas Maloutas is Professor at the Department of Geography, Harokopio University. Former Director of the Institute of Urban and Rural Sociology of the National Centre for Social Research (EKKE) and Professor at the Department of Planning, University of Thessaly. He recently served as General Secretary for Research & Technology. His work is related to the changing social structures in metropolitan areas in the era of capitalist globalisation with a focus on issues of segregation and gentrification related to housing and broader welfare regimes. His research and published work refer mainly to the South European urban context and especially to Athens.'
+  _key: text
+  _uid: text_1554392212444_184
+- 
+  image:
+    - sstavrides.jpg
+  caption: Stavros Stavrides
+  picture: sstavrides.jpg
+  _key: image
+  _uid: image_1554392212444_193
+- 
+  text: 'Dr. Stavros Stavrides, architect and activist, is Professor at the School of Architecture, National Technical University of Athens, Greece, where he teaches graduate courses on housing design (social housing design included), as well as a postgraduate course on the meaning of metropolitan experience. His research is currently focused on forms of emancipating spatial practices and urban commons, characteristically developed in his last books Common Space: The City as Commons, (2016), and Common Spaces of Urban Emancipation (forthcoming in 2019). He has lectured in European and Latin American Universities on urban struggles and practices of urban commoning.'
+  _key: text
+  _uid: text_1554392212445_202
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

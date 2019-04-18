@@ -12,6 +12,14 @@
         </p>
         <div class="heading-2 pt-24 pb-12">Athens, Greece</div>
         <div class="heading-2 pb-24"><?= $site->congressdates() ?></div>
+        <div class="heading-4 pb-24 tt-upper">
+            Attendance at the Conference is free of charge.
+        </div>
+        <?php if($page->poster()->exists() and $page->poster()->isNotEmpty()): ?>
+        <div class="pb-24">
+            <img src="<?= $page->poster()->toFile()->url()?>" class="block max-w-full"  />
+        </div>
+        <?php endif; ?>
     </div>
 </section>
 <?php if($page->text()->isNotEmpty()): ?>

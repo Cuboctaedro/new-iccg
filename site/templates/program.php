@@ -1,9 +1,13 @@
-<?php if($kirby->user()): ?>
 <?php snippet('header') ?>
 <article class="">
 
     <?php snippet('components/pageheader') ?>
 
+<?php if($page->programmefile()->exists() and $page->programmefile()->isNotEmpty()): ?>
+    <div class="gutters-main gutters-vertical border-bottom-thick">
+        <a href="<?= $page->programmefile()->toFile()->url() ?>" class="button" target="_blank" >Download Programme</a>
+    </div>
+<?php endif;?>
     <div class="pb-48 border-top-thin">
         <?php foreach($dates as $date => $timeslots): ?>
             <section class="mb-48 border-bottom-grey">
@@ -18,15 +22,10 @@
                             <?php foreach($timeslot->children() as $event): ?>
 
                                 <div class="border-top-grey gutters-main pt-12 pb-12 subject__header <?= $event->subject() ?> flex flex-row <?= e($event->hasContent(), ' pointer ')?>" <?php if ($event->hasContent()): ?> data-toggle-panel="#id<?= $event->slug() ?>" <?php endif; ?>>
-                                    <div class="w-1-4 flex flex-row">
-                                        <?php if($event->hasSubject()): ?>
-                                            <?php snippet('components/subjectnumber', ['subject' => $event->subject()]); ?>
-                                        <?php else: ?>
-                                            <div class="w-24 h-24"></div>
-                                        <?php endif; ?>
-                                        <div class="pl-12"><?= $event->room() ?></div>
+                                    <div class="w-full sm__w-1-4 flex flex-row">
+                                        <div class=""><?= $event->room() ?></div>
                                     </div>
-                                    <h4 class="heading-4 w-3-4"><?= $event->title() ?></h4>
+                                    <h4 class="heading-4 w-full sm__w-3-4"><?= $event->title() ?></h4>
                                 </div>
                                 <div class="hidden gutters-main pt-12 pb-12 ff-serif bg-<?= $event->subject() ?>-light " id="id<?= $event->slug() ?>">
                                     <?php if($event->coordinators()->exists() && $event->coordinators()->isNotEmpty()): ?>
@@ -58,9 +57,9 @@
                                                 </div>
                                                 <?php endif;?>
                                                 <?php if ($section->_key() == 'image') :?>
-                                                    <?php if ($section->picture()->isNotEmpty()): ?>
+                                                    <?php if ($section->image()->isNotEmpty()): ?>
                                                     <figure class="w-480 mr-24 mb-24">
-                                                        <img src="<?= $event->image($section->picture())->url(); ?>" class="block max-w-full"/>
+                                                        <img src="<?= $section->image()->toFile()->url(); ?>" class="block max-w-full"/>
                                                         <figcaption class="fs-italic fs-14">
                                                             <?= $section->caption() ?>
                                                         </figcaption>
@@ -84,6 +83,3 @@
 </article>
 
 <?php snippet('footer') ?>
-<?php else :
-    go('');
-endif; ?>

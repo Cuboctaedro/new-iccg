@@ -1,0 +1,54 @@
+Title: Field trips
+
+----
+
+Subject: 
+
+----
+
+Room: 
+
+----
+
+Coordinators: 
+
+----
+
+Presentations: 
+
+----
+
+Contentblocks: 
+
+- 
+  text: |
+    FT6: KOUKAKI, ACROPOLIS: The impact of Airbnb and the Athenian case
+    
+    FT7: GOUDI METROPOLITAN PARK AND HYMETTUS MOUNTAIN: Environmental struggles
+    
+    FT8: ELLINIKO AND WATERFRONT: Real estate and large scale development
+    
+    FT9: ELEFSINA, SKARAMAGKAS: Industrialization and de-industrialization of Attica
+    
+    FT10: ELAIONAS, SCHISTO, PATISION AV.: State responses to the 'refugee crisis', between accommodation and incarceration
+    10.a Refugee camp of Elaionas
+    10.b Refugee camp of Schisto **10.b starts at 9.00**
+    10.c Urban Accommodation
+  _key: text
+  _uid: text_1554835938674_51168
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

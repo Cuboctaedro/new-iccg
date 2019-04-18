@@ -1,0 +1,40 @@
+Title: This Is Not an Atlas - A global collection of counter-cartographies
+
+----
+
+Subject: 
+
+----
+
+Room: Amphitheatre 002
+
+----
+
+Coordinators: Kollektiv Orangotango and Geobrujas | Valeria Ysunza Pérez-Gil, Jannina Dobrusskin
+
+----
+
+Presentations: 
+
+----
+
+Contentblocks: 
+
+- 
+  image:
+    - afiche_athens-01.jpg
+  caption: ""
+  _key: image
+  _uid: image_1555399677795_1458
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 

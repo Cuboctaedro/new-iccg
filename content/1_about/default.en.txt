@@ -12,6 +12,7 @@ Contentblocks:
     Based on the local team capacity and available conference spaces the conference will be able to accommodate **maximum 250 participants**
     
     ## Members of the Organising Committee (local team):
+    * Olga Balaoura, Urban Planning PhD
     * Evangelia Chatzikonstantinou, Urban Planning PhD
     * George Kandylis, Researcher EKKE
     * Penny Koutrolikou, Assistant Professor Urban Planning NTUA
@@ -48,7 +49,7 @@ Contentblocks:
     * Kouki Hara, Durham University
     * Koutrolikou Penny, School of Architecture, National Technical University of Athens
     * Lemberg-Pedersen Martin, Aalborg University
-    * Leontidou Lila, University of the Aegean
+    * Leontidou Lila, Hellenic Open University
     * Micha Eirini, School of Architecture, National Technical University of Athens
     * Nikisianis Nikos, Aristotle University of Thessaloniki
     * Oikonomakis Leonidas, Durham University

@@ -1,5 +1,7 @@
 .menu__link {
-    @include typesize(18,48);
+    @include typesize(14,48);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
     height: rem(48);
     padding-left: rem(12);
     padding-right: rem(12);

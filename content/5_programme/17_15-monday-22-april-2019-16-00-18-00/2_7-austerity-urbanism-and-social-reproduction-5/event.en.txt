@@ -1,0 +1,57 @@
+Title: Austerity urbanism and social reproduction 5
+
+----
+
+Subject: s1
+
+----
+
+Room: Room A 104
+
+----
+
+Coordinators: Chair: Dimitra Siatitsa
+
+----
+
+Presentations: 
+
+- 
+  title: The gifted Island
+  speaker: >
+    Emmanuèle Cunningham Sabot, Ecole
+    Normale Supérieure
+- 
+  title: 'Everyday Scalar Politics: Navigating the Insecure City in Times of Austerity'
+  speaker: Alke Jenss, Freiburg University
+- 
+  title: >
+    Monitoring the geography of
+    manufacturing in Athens in times of
+    crisis
+  speaker: Olga Balaoura, IUAV University of Venice
+- 
+  title: 'Austerity & crisis through the lenses of Athenian street art'
+  speaker: >
+    Asimina Paraskevopoulou, The Bartlett
+    University College London
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

@@ -1,0 +1,23 @@
+Text: 
+
+----
+
+Poster: 
+
+- poster-small.jpg
+
+----
+
+Subtitle: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 

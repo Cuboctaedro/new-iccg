@@ -1,0 +1,48 @@
+Title: Social Event
+
+----
+
+Subject: 
+
+----
+
+Room: 
+
+----
+
+Coordinators: 
+
+----
+
+Presentations: 
+
+----
+
+Contentblocks: 
+
+- 
+  text: '**Polis Art Cafe, 5 Pesmazoglou st.**'
+  _key: text
+  _uid: text_1554837319840_62411
+- 
+  image:
+    - polis-art-cafe.jpg
+  caption: ""
+  _key: image
+  _uid: image_1554893026328_1582
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

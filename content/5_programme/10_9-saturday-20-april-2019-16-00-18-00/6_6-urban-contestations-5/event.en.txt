@@ -1,0 +1,56 @@
+Title: Urban contestations 3
+
+----
+
+Subject: s3
+
+----
+
+Room: Room A 106
+
+----
+
+Coordinators: Chair: Myrto Garis
+
+----
+
+Presentations: 
+
+- 
+  title: >
+    Appropriating urban regeneration under
+    settler-colonial logic in Haifa
+  speaker: Ronnen Ben-Arie, Technion Institute
+- 
+  title: >
+    ‘Urbicide’ in Danish – everyday
+    war and urban restructuring
+  speaker: >
+    Lasse Koefoed, Roskilde University and
+    Kirsten Simonsen, Roskilde University
+- 
+  title: 'Red and Yellow: State-society relations and social Movements for Political Reform in Thailand and Malaysia'
+  speaker: 'Qistina Kamarudin, University of Sussex '
+- 
+  title: 'Being there: Squares as destinations, as places of stasis'
+  speaker: 'Georgina Christou, University of Sussex '
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 

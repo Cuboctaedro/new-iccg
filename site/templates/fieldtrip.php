@@ -21,16 +21,16 @@
             <time itemprop="doorTime" class="heading-3 block mb-16"><?= $page->date()->toDate('l F jS, Y') ?></time>
 
             <div class="mb-24">
-                <span class="tt-upper block">Participants:</span>
+                <span class="tt-upper block fw-700 fs-14">Participants:</span>
                 <span class="ff-serif block mb-24"><?= $page->participants() ?></span>
                 <?php if( $page->startingpoint()->exists() && $page->startingpoint()->isNotEmpty() ):?>
-                <span class="tt-upper block">Starting Point:</span>
+                <span class="tt-upper block fw-700 fs-14">Starting Point:</span>
                 <span class="ff-serif block mb-24"><?= $page->startingpoint() ?></span>
                 <?php endif; ?>
-                <span class="tt-upper block">Place of Discussion:</span>
+                <span class="tt-upper block fw-700 fs-14">Place of Discussion:</span>
                 <span class="ff-serif block mb-24"><?= $page->location() ?></span>
                 <?php if( $page->guides()->exists() && $page->guides()->isNotEmpty() ):?>
-                <span class="tt-upper block">Field Trip Guides:</span>
+                <span class="tt-upper block fw-700 fs-14">Field Trip Guides:</span>
                 <span class="ff-serif block mb-24"><?= $page->guides() ?></span>
                 <?php endif; ?>
             </div>

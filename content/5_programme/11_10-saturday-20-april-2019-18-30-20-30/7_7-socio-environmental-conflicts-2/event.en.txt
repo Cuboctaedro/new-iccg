@@ -1,0 +1,64 @@
+Title: Socio-environmental conflicts 2
+
+----
+
+Subject: s7
+
+----
+
+Room: Room A 106
+
+----
+
+Coordinators: Chair: Giorgos Velegrakis
+
+----
+
+Presentations: 
+
+- 
+  title: 'Local Institutional Dynamics and Distributional Outcomes of Ecosystem Services: The Case of Traditional Water Harvesting Systems in West Bengal, India'
+  speaker: >
+    Koushik Chowdhury, Indian Institute of
+    Technology
+- 
+  title: 'Counterproductive urban socio-environmental movements: critical theory building from Scottish and Luxembourgish communities'
+  speaker: >
+    Gerald Taylor-Aiken, University of
+    Luxembourg.
+- 
+  title: >
+    Nature-based solutions’ as a
+    discursive tool towards green
+    neoliberalism in cities
+  speaker: >
+    Panagiota Kotsila, Universitàt Autonoma
+    de Barcelona
+- 
+  title: >
+    ‘Xenia-scapes’ as a process of
+    erasure and emergence
+  speaker: >
+    Ismini Epitropou, National Technical
+    University of Athens and Eva
+    Karagiozidou
+
+----
+
+Contentblocks: 
+
+----
+
+Description: 
+
+----
+
+Featuredimage: 
+
+----
+
+Authortwitter: 
+
+----
+
+Previewfiles: 
